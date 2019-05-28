@@ -109,7 +109,7 @@ for Line in InFile4:
 # After the loop is completed, close the file
 InFile4.close ()
   
- # Next we will work with sample_18_OTUtable.xlsx and sample_19_OTUtable.xlsx and completely ignore the header row.
+# Next we will work with sample_18_OTUtable.xlsx and sample_19_OTUtable.xlsx and completely ignore the header row.
  
 #!/usr/bin/env python
 
@@ -124,7 +124,7 @@ LineNumber = 0
 for Line in InFile5:
   if LineNumber > 0:
     # Remove the line ending characters
-    Line = Line.strip('\n')  ????????????????
+    Line = Line.strip('\n')
     # Print the line
     print LineNumber, ":", Line 
   LineNumber = LineNumber + 1  ????????

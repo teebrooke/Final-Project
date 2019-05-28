@@ -5,15 +5,15 @@
 # Backbone:
 # The purpose of my project is to merge tables with a single header and single row, thus the tables will be stacked on top of one another. I do not want to include repeating headers. For users, make sure that you have the same number of dimension of tables before using this program.
 
-# Psuedocode: I will be taking three files and all their common and uncommon header rows and using that as the foundation for the final concatenated table. For example, some of the uncommon headers among the three tables in Metadata include, pH meter CALeDNA, Amount of Leaf Litter, Time Collection, pH Litmus Strip. The final concatenated header row will include all of theses headers, even if the table does not have any data for it. The same goes for the final concatenated OTU table. 
+# Psuedocode: I will be taking three files and all their common and uncommon header rows and using that as the foundation for the final concatenated table. For example, some of the uncommon headers among the three tables in Metadata include Time Collection. The final concatenated header row will include all of theses headers, even if the table does not have any data for it. The same goes for the final concatenated OTU table. 
 
-# First step will be to inport the tables and distinguish how many rows and columns there are in each table (Meatdata will be concatenated with metadata and OTU with OTU).
+# First step will be to import the tables and distinguish how many rows and columns there are in each table (Meatdata will be concatenated with Metadata and OTU with OTU).
 
 data_file_meta1 = pd.read_excel('sample_17_metadata.xlsx')
 data_file_meta2 = pd.read_excel('sample_18_metadata.xlsx')
 data_file_meta3 = pd.read_excel('sample_19_metadata.xlsx')
 
-# Next we will work with python to determine a specific header row with common and uncommon headers throughout the Metadata tables
+# Next we will take a look at thej Metadata tables to determine a concatenated header row with common and uncommon headers (common headers are included in all and uncommon headers are only present on some tables)
 
 #!/usr/bin/env python
 

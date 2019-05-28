@@ -6,3 +6,154 @@
 # The purpose of my project is to merge tables with a single header and single row, thus the tables will be stacked on top of one another. I do not want to include repeating headers. For users, make sure that you have the same number of dimension of tables before using this program.
 
 # Psuedocode: I will be taking three files and all their common and uncommon header rows and using that as the foundation for the final concatenated table. For example, some of the uncommon headers among the three tables in Metadata include, pH meter CALeDNA, Amount of Leaf Litter, Time Collection, pH Litmus Strip. The final concatenated header row will include all of theses headers, even if the table does not have any data for it. The same goes for the final concatenated OTU table. 
+
+# First step will be to inport the tables and distinguish how many rows and columns there are in each table (Meatdata will be concatenated with metadata and OTU with OTU).
+
+data_file_meta1 = pd.read_excel('sample_17_metadata.xlsx')
+data_file_meta2 = pd.read_excel('sample_18_metadata.xlsx')
+data_file_meta3 = pd.read_excel('sample_19_metadata.xlsx')
+
+# Next we will work with python to determine a specific header row with common and uncommon headers throughout the Metadata tables
+
+#!/usr/bin/env python
+
+# Set the input file name 
+InFileName1 = sample_17_metadata.xlsx
+# Open the input file for reading
+InFile1 = open(InFileName1, 'sample_17_metadata.xlsx')
+# Initialize the counter used to keep track of lines
+LineNumber = 0
+
+# Loop through each line in the file 
+for Line in InFile1:
+  if LineNumber >= 0:     
+    # Remove the line ending characters
+    Line = Line.strip('\n')  ????????????????
+    # Print the line
+    print LineNumber, ":", Line 
+  LineNumber = LineNumber + 1  ????????
+  
+# After the loop is completed, close the file
+InFile1.close ()
+  
+# Next we will work with table two from sample_18_metadata.xlsx and not include the first line header, but will need to include time of collection since that header was not present in sample_17_metadata.xlsx
+
+#!/usr/bin/env python
+
+# Set the input file name 
+InFileName2 = sample_18_metadata.xlsx
+# Open the input file for reading
+InFile2 = open(InFileName2, 'sample_18_metadata.xlsx')
+# Initialize the counter used to keep track of lines
+LineNumber = 0
+
+# Loop through each line in the file 
+for Line in InFile2:
+  if LineNumber > 0:  EXCEPT I WANT TO KEEP ONE HEADER???????????
+    # Remove the line ending characters
+    Line = Line.strip('\n')  ????????????????
+    # Print the line
+    print LineNumber, ":", Line 
+  LineNumber = LineNumber + 1  ????????
+  
+# After the loop is completed, close the file
+InFile2.close ()
+  
+# For Infile3 we do not need to include any portion of the header. We just need to include column and rows 2A/19A-2T/19T
+    
+#!/usr/bin/env python
+
+# Set the input file name 
+InFileName3 = sample_19_metadata.xlsx
+# Open the input file for reading
+InFile3 = open(InFileName3, 'sample_19_metadata.xlsx')
+# Initialize the counter used to keep track of lines
+LineNumber = 0
+
+# Loop through each line in the file 
+for Line in InFile3:
+  if LineNumber >= 0:
+    # Remove the line ending characters
+    Line = Line.strip('\n')  ????????????????
+    # Print the line
+    print LineNumber, ":", Line 
+  LineNumber = LineNumber + 1  ????????
+
+# After the loop is completed, close the file
+InFile3.close ()
+  
+# Next we will work with the OTU data
+
+data_file_OTU1 = pd.read_excel('sample_17_OTUtable.xlsx')
+data_file_OTU2 = pd.read_excel('sample_18_OTUtable.xlsx')
+data_file_OTU3 = pd.read_excel('sample_19_OTUtable.xlsx')
+
+#!/usr/bin/env python
+
+# Set the input file name 
+InFileName4 = sample_17_OTUtable.xlsx
+# Open the input file for reading
+InFile4 = open(InFileName4, 'sample_17_OTUtable.xlsx')
+# Initialize the counter used to keep track of lines
+LineNumber = 0
+
+# Loop through each line in the file 
+for Line in InFile4:
+  if LineNumber >= 0:
+    # Remove the line ending characters
+    Line = Line.strip('\n')  ????????????????
+    # Print the line
+    print LineNumber, ":", Line 
+  LineNumber = LineNumber + 1  ????????
+  
+# After the loop is completed, close the file
+InFile4.close ()
+  
+ # Next we will work with sample_18_OTUtable.xlsx and sample_19_OTUtable.xlsx and completely ignore the header row.
+ 
+#!/usr/bin/env python
+
+# Set the input file name 
+InFileName5 = sample_18_OTUtable.xlsx
+# Open the input file for reading
+InFile5 = open(InFileName5, 'sample_18_OTUtable.xlsx')
+# Initialize the counter used to keep track of lines
+LineNumber = 0
+
+# Loop through each line in the file 
+for Line in InFile5:
+  if LineNumber > 0:
+    # Remove the line ending characters
+    Line = Line.strip('\n')  ????????????????
+    # Print the line
+    print LineNumber, ":", Line 
+  LineNumber = LineNumber + 1  ????????
+  
+# After the loop is completed, close the file
+InFile5.close ()
+
+
+#!/usr/bin/env python
+
+# Set the input file name 
+InFileName6 = sample_19_OTUtable.xlsx
+# Open the input file for reading
+InFile6 = open(InFileName6, 'sample_19_OTUtable.xlsx')
+# Initialize the counter used to keep track of lines
+LineNumber = 0
+
+# Loop through each line in the file 
+for Line in InFile6:
+  if LineNumber > 0:
+    # Remove the line ending characters
+    Line = Line.strip('\n')  ????????????????
+    # Print the line
+    print LineNumber, ":", Line 
+  LineNumber = LineNumber + 1  ????????
+  
+# After the loop is completed, close the file
+InFile6.close ()
+ 
+ 
+ 
+  

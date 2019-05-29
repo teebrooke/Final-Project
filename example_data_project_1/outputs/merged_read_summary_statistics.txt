@@ -1,0 +1,6 @@
+	Total dataset	sample_17_OTUtable	sample_18_OTUtable	sample_19_OTUtable
+number samples	42	14	14	14
+Min	96	530	96	357
+Max	4623	4623	943	3389
+Median	830	1673	185.5	846.5
+Mean	1061.85	1987.5	292.6428571	1084.571429

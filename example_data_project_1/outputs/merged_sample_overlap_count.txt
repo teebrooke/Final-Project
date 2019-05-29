@@ -1,0 +1,5 @@
+dataset comparison	shared sites
+sample_17_OTUtable vs sample_18_OTUtable	8
+sample_17_OTUtable vs sample_19_OTUtable	9
+sample_18_OTUtable vs sample_19_OTUtable	6
+all datasets	6

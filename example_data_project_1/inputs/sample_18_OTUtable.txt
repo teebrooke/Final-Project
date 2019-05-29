@@ -1,0 +1,362 @@
+#OTU ID	S1_18	S2_18	S3_18	S4_18	S5_18	S6_18	S7_18	S8_18	S9_18	S10_18	S11_18	S12_18	S13_18	S14_18	sum taxonomy
+forward_16S_638	0	0	0	1	0	0	13	0	0	0	0	0	0	0	;;;;;
+forward_16S_639	0	0	0	1	7	5	0	0	0	0	0	1	0	0	Verrucomicrobia;Spartobacteria;NA;NA;NA;bacterium Ellin507
+forward_16S_640	0	0	0	0	14	0	0	0	0	0	0	0	0	0	Acidobacteria;;;;Luteitalea;Luteitalea pratensis
+forward_16S_641	0	0	0	0	12	1	0	0	0	0	0	1	0	0	Verrucomicrobia;Verrucomicrobiae;Verrucomicrobiales;Verrucomicrobia subdivision 3;NA;bacterium Ellin516
+forward_16S_642	0	0	0	0	12	0	0	0	0	0	0	2	0	0	Verrucomicrobia;Verrucomicrobiae;Verrucomicrobiales;Verrucomicrobia subdivision 3;;
+forward_16S_643	0	0	0	0	8	5	0	0	0	0	0	1	0	0	Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;;
+forward_16S_644	0	0	0	0	1	0	0	8	0	0	0	0	0	5	Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;
+forward_16S_645	0	0	0	0	0	0	14	0	0	0	0	0	0	0	Bacteroidetes;Chitinophagia;Chitinophagales;Chitinophagaceae;;
+forward_16S_646	0	0	0	0	0	0	14	0	0	0	0	0	0	0	Actinobacteria;Actinobacteria;Pseudonocardiales;Pseudonocardiaceae;Actinoalloteichus;
+forward_16S_647	0	0	0	0	0	0	0	14	0	0	0	0	0	0	Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter;
+forward_16S_648	0	0	0	0	0	0	0	14	0	0	0	0	0	0	Proteobacteria;Betaproteobacteria;;;;
+forward_16S_649	12	0	1	0	0	0	0	0	0	0	0	0	0	0	Acidobacteria;;;;Luteitalea;Luteitalea pratensis
+forward_16S_650	6	0	2	0	2	0	0	0	0	0	2	0	0	1	Planctomycetes;Planctomycetia;Planctomycetales;NA;NA;metal-contaminated soil clone K20-75
+forward_16S_651	6	1	2	0	0	0	0	0	2	0	1	0	0	1	Proteobacteria;Alphaproteobacteria;;;;
+forward_16S_652	5	0	2	0	0	0	0	0	0	0	3	3	0	0	Proteobacteria;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae;Sulfurospirillum;Thermobaculum sp. enrichment culture clone VanCtr100
+forward_16S_653	5	0	0	0	4	0	0	0	0	0	3	1	0	0	Verrucomicrobia;Spartobacteria;;;;
+forward_16S_654	5	0	0	0	0	0	0	0	0	0	4	2	2	0	Verrucomicrobia;Spartobacteria;;;;
+forward_16S_655	5	0	1	0	0	0	1	0	1	0	1	0	4	0	Acidobacteria;Blastocatellia;;Pyrinomonadaceae;Brevitalea;Brevitalea deliciosa
+forward_16S_656	4	0	4	1	0	0	0	0	1	0	2	0	1	0	Acidobacteria;;;;Luteitalea;Luteitalea pratensis
+forward_16S_657	3	0	1	3	0	0	2	0	1	0	0	1	1	1	Planctomycetes;Planctomycetia;Planctomycetales;;;
+forward_16S_658	3	0	0	6	0	2	0	0	0	0	0	0	0	2	Bacteroidetes;Chitinophagia;Chitinophagales;Chitinophagaceae;Flavitalea;Flavitalea sp.
+forward_16S_659	3	0	0	1	2	0	2	1	1	0	1	2	0	0	Acidobacteria;;;;Luteitalea;Luteitalea pratensis
+forward_16S_660	3	0	1	0	0	0	7	0	0	0	2	0	0	0	
+forward_16S_661	3	0	2	1	0	0	4	0	0	1	2	0	0	0	Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Limnobacter;Limnobacter sp. sp. EC-HK119
+forward_16S_662	2	0	4	0	5	0	0	0	0	0	1	0	1	0	Proteobacteria;Deltaproteobacteria;Myxococcales;;;
+forward_16S_663	2	0	2	0	0	0	5	0	0	0	2	0	2	0	Acidobacteria;;;;Luteitalea;Luteitalea pratensis
+forward_16S_664	2	0	1	0	0	0	6	0	1	0	1	2	0	0	Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bradyrhizobium;Bradyrhizobium japonicum
+forward_16S_665	2	3	0	0	0	5	0	0	0	2	1	0	0	0	Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingomonas;
+forward_16S_666	2	0	2	2	0	0	3	0	0	0	2	0	2	0	Acidobacteria;;;;Luteitalea;Luteitalea pratensis
+forward_16S_667	2	0	0	2	0	0	3	2	1	1	0	0	0	2	Actinobacteria;Actinobacteria;Micrococcales;Micrococcaceae;Arthrobacter;
+forward_16S_668	2	0	1	0	0	0	8	0	0	0	0	0	2	0	Actinobacteria;Thermoleophilia;Solirubrobacterales;Solirubrobacteraceae;Solirubrobacter;
+forward_16S_669	2	0	1	0	3	4	1	0	0	0	1	1	0	0	Actinobacteria;Thermoleophilia;Solirubrobacterales;Solirubrobacteraceae;Solirubrobacter;
+forward_16S_670	2	0	2	0	0	0	1	7	1	0	0	0	0	0	Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;;
+forward_16S_671	1	0	0	1	0	0	11	0	0	0	0	0	0	0	Planctomycetes;Planctomycetia;Planctomycetales;;;
+forward_16S_672	1	0	2	2	3	0	1	0	0	0	4	0	0	0	Planctomycetes;Planctomycetia;;;;
+forward_16S_673	1	0	5	5	0	0	2	0	0	0	0	0	0	0	Acidobacteria;;;;Luteitalea;Luteitalea pratensis
+forward_16S_674	1	0	2	5	0	0	1	0	1	0	1	0	1	1	Verrucomicrobia;Spartobacteria;;;;
+forward_16S_675	1	1	0	3	2	4	0	0	1	0	0	1	0	0	Verrucomicrobia;Spartobacteria;NA;NA;NA;bacterium Ellin506
+forward_16S_676	1	0	3	2	0	0	0	0	0	3	0	0	4	0	Verrucomicrobia;Spartobacteria;;;;
+forward_16S_677	1	0	0	0	0	0	2	0	0	0	0	0	10	0	Verrucomicrobia;Spartobacteria;;;;
+forward_16S_678	1	1	3	1	2	1	0	0	0	2	0	0	1	1	Proteobacteria;Alphaproteobacteria;Rhizobiales;Methylobacteriaceae;Methylobacterium;
+forward_16S_679	1	1	2	2	0	0	5	0	1	0	0	0	0	1	Proteobacteria;Alphaproteobacteria;;;;
+forward_16S_680	1	4	1	1	0	1	1	3	0	0	0	1	0	0	Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;Variovorax;
+forward_16S_681	1	1	6	4	0	0	0	0	0	0	1	0	0	0	Proteobacteria;Betaproteobacteria;Nitrosomonadales;Nitrosomonadaceae;Nitrosospira;
+forward_16S_682	0	8	2	0	0	0	1	0	2	0	0	0	0	0	Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Massilia;
+forward_16S_683	0	7	1	2	0	0	1	0	1	1	0	0	0	0	Proteobacteria;Alphaproteobacteria;Rhizobiales;Methylobacteriaceae;Microvirga;
+forward_16S_684	0	6	0	0	0	0	1	4	0	1	0	0	0	1	Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Massilia;
+forward_16S_685	0	5	0	3	0	1	2	0	0	0	0	1	0	1	Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;Variovorax;
+forward_16S_686	0	3	0	1	0	0	7	1	1	0	0	0	0	0	Bacteroidetes;Chitinophagia;Chitinophagales;Chitinophagaceae;Segetibacter;Segetibacter koreensis
+forward_16S_687	0	1	0	1	1	8	0	0	0	0	0	1	1	0	Verrucomicrobia;Spartobacteria;NA;NA;NA;uncultivated soil bacterium clone C019
+forward_16S_688	0	1	1	0	0	0	7	1	0	1	0	0	0	2	Verrucomicrobia;Spartobacteria;NA;NA;NA;bacterium Ellin511
+forward_16S_689	0	1	0	1	0	0	9	0	0	1	0	0	0	1	Proteobacteria;Alphaproteobacteria;Rhizobiales;Beijerinckiaceae;Beijerinckia;Beijerinckia sp. URHD0026
+forward_16S_690	0	1	0	0	0	0	11	0	0	0	0	0	0	1	Firmicutes;Bacilli;Bacillales;Bacillaceae;Bacillus;
+forward_16S_691	0	0	7	2	0	0	0	0	1	3	0	0	0	0	Acidobacteria;;;;Luteitalea;Luteitalea pratensis
+forward_16S_692	0	0	2	0	0	0	9	0	0	0	1	0	1	0	Acidobacteria;;;;Luteitalea;Luteitalea pratensis
+forward_16S_693	0	0	2	3	0	0	3	1	1	0	2	0	1	0	Proteobacteria;Alphaproteobacteria;Rhizobiales;Methylobacteriaceae;Microvirga;
+forward_16S_694	0	0	1	1	1	6	0	0	0	0	1	1	0	2	Proteobacteria;Deltaproteobacteria;Myxococcales;Polyangiaceae;;
+forward_16S_695	0	0	1	0	0	0	8	0	0	2	1	0	1	0	Verrucomicrobia;Spartobacteria;;;;
+forward_16S_696	0	0	1	1	4	1	0	0	0	0	1	2	3	0	Verrucomicrobia;Spartobacteria;NA;NA;NA;bacterium Ellin507
+forward_16S_697	0	0	1	0	4	0	2	0	0	0	2	0	4	0	Acidobacteria;;;;Luteitalea;Luteitalea pratensis
+forward_16S_698	0	0	1	1	3	3	0	0	3	0	0	1	0	1	Actinobacteria;Actinobacteria;Pseudonocardiales;Pseudonocardiaceae;Pseudonocardia;
+forward_16S_699	0	0	0	1	0	0	7	4	1	0	0	0	0	0	Firmicutes;Bacilli;Bacillales;Paenibacillaceae;Cohnella;
+forward_16S_700	0	0	0	1	0	0	12	0	0	0	0	0	0	0	Proteobacteria;Betaproteobacteria;;;;
+forward_16S_701	0	0	0	0	13	0	0	0	0	0	0	0	0	0	Proteobacteria;Gammaproteobacteria;Enterobacterales;;;
+forward_16S_702	0	0	0	0	12	0	0	0	0	0	0	1	0	0	Acidobacteria;NA;NA;NA;Luteitalea;Luteitalea pratensis
+forward_16S_703	0	0	0	0	12	1	0	0	0	0	0	0	0	0	Bacteroidetes;Sphingobacteriia;Sphingobacteriales;NA;NA;Sphingobacteriales bacterium TP524
+forward_16S_704	0	0	0	0	10	0	1	0	0	0	0	2	0	0	Acidobacteria;;;;Luteitalea;Luteitalea pratensis
+forward_16S_705	0	0	0	0	10	0	0	0	0	0	0	3	0	0	Acidobacteria;;;;Luteitalea;Luteitalea pratensis
+forward_16S_706	0	0	0	0	9	4	0	0	0	0	0	0	0	0	Proteobacteria;Gammaproteobacteria;Cellvibrionales;Cellvibrionaceae;Cellvibrio;
+forward_16S_707	0	0	0	0	8	5	0	0	0	0	0	0	0	0	Proteobacteria;Betaproteobacteria;Burkholderiales;NA;Thiobacter;Thiobacter sp. enrichment culture clone 35Fe79
+forward_16S_708	0	0	0	0	7	6	0	0	0	0	0	0	0	0	Bacteroidetes;Sphingobacteriia;Sphingobacteriales;;;
+forward_16S_709	0	0	0	0	3	0	5	0	3	1	0	0	1	0	Proteobacteria;Alphaproteobacteria;Rhizobiales;;;
+forward_16S_710	0	0	0	0	1	11	0	0	0	0	0	1	0	0	Planctomycetes;Planctomycetia;Planctomycetales;Planctomycetaceae;;
+forward_16S_711	0	0	0	0	0	0	13	0	0	0	0	0	0	0	;;;;;
+forward_16S_712	0	0	0	0	0	0	10	0	0	0	0	0	3	0	Verrucomicrobia;Spartobacteria;NA;NA;NA;unidentified eubacterium RB35
+forward_16S_713	12	0	0	0	0	0	0	0	0	0	0	0	0	0	Thaumarchaeota;Nitrososphaeria;Nitrososphaerales;Nitrososphaeraceae;Candidatus Nitrosocosmicus;
+forward_16S_714	11	0	0	0	0	0	0	0	0	0	0	0	1	0	Acidobacteria;Holophagae;Holophagales;Holophagaceae;Holophaga;
+forward_16S_715	11	0	1	0	0	0	0	0	0	0	0	0	0	0	Thaumarchaeota;Nitrososphaeria;Nitrososphaerales;Nitrososphaeraceae;Candidatus Nitrosocosmicus;
+forward_16S_716	6	0	1	0	0	0	3	0	0	0	0	0	2	0	Planctomycetes;Planctomycetia;Planctomycetales;;;
+forward_16S_717	6	0	0	0	0	0	3	0	0	0	0	1	2	0	Verrucomicrobia;Spartobacteria;;;;
+forward_16S_718	5	0	0	1	0	0	2	0	0	0	3	0	1	0	;;;;;
+forward_16S_719	5	0	0	0	0	0	2	0	0	0	0	0	5	0	Acidobacteria;Blastocatellia;;Pyrinomonadaceae;;
+forward_16S_720	4	1	0	0	0	0	1	0	1	0	0	2	3	0	Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingomonas;Sphingomonas sp. URHD0085
+forward_16S_721	4	0	1	1	0	0	2	0	0	0	4	0	0	0	Acidobacteria;;;;Luteitalea;Luteitalea pratensis
+forward_16S_722	4	1	1	0	1	0	0	0	2	1	2	0	0	0	Proteobacteria;Betaproteobacteria;Burkholderiales;NA;Aquabacterium;Aquabacterium sp.
+forward_16S_723	3	0	1	0	1	0	1	0	2	2	1	0	0	1	Proteobacteria;Deltaproteobacteria;Myxococcales;Myxococcaceae;Corallococcus;
+forward_16S_724	3	0	0	3	2	0	0	0	0	0	0	4	0	0	Verrucomicrobia;Spartobacteria;NA;NA;NA;bacterium Ellin511
+forward_16S_725	3	0	0	2	0	0	0	1	1	1	1	1	0	2	Proteobacteria;Alphaproteobacteria;Rhizobiales;Methylobacteriaceae;Methylobacterium;
+forward_16S_726	3	0	0	3	0	0	2	0	0	2	1	0	1	0	Proteobacteria;Alphaproteobacteria;Rhizobiales;Methylobacteriaceae;Microvirga;
+forward_16S_727	3	2	0	2	0	0	1	0	1	1	1	0	0	1	Actinobacteria;Actinobacteria;Geodermatophilales;Geodermatophilaceae;Blastococcus;Blastococcus sp. I12A-02639
+forward_16S_728	2	0	0	0	0	0	10	0	0	0	0	0	0	0	Planctomycetes;Planctomycetia;Planctomycetales;;;
+forward_16S_729	2	0	1	0	0	0	4	0	0	0	1	2	2	0	Acidobacteria;;;;Luteitalea;Luteitalea pratensis
+forward_16S_730	2	0	0	0	0	1	0	2	0	0	0	0	0	7	Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;
+forward_16S_731	2	0	0	0	6	0	0	0	0	0	1	3	0	0	Verrucomicrobia;Spartobacteria;NA;NA;NA;bacterium Ellin511
+forward_16S_732	2	0	0	0	0	0	5	0	1	0	0	0	4	0	Verrucomicrobia;Spartobacteria;;;;
+forward_16S_733	2	0	1	0	0	1	3	1	0	0	4	0	0	0	Planctomycetes;Planctomycetia;Planctomycetales;;;
+forward_16S_734	2	0	0	0	0	0	0	0	0	0	0	0	10	0	Acidobacteria;Blastocatellia;;Pyrinomonadaceae;Brevitalea;Brevitalea deliciosa
+forward_16S_735	2	2	0	0	0	0	1	6	0	0	0	0	0	1	Bacteroidetes;;;;;
+forward_16S_736	2	0	0	2	0	0	5	0	0	0	1	0	2	0	Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingomonas;Sphingomonas sp. URHD0085
+forward_16S_737	2	3	4	0	0	0	0	1	1	0	0	0	0	1	Bacteroidetes;Chitinophagia;Chitinophagales;Chitinophagaceae;Segetibacter;Segetibacter koreensis
+forward_16S_738	2	1	2	0	0	0	3	0	0	0	1	0	3	0	Acidobacteria;Blastocatellia;;Pyrinomonadaceae;Arenimicrobium;Arenimicrobium luteum
+forward_16S_739	2	0	0	0	7	0	0	0	0	0	1	2	0	0	Acidobacteria;;;;Luteitalea;Luteitalea pratensis
+forward_16S_740	2	0	2	3	0	0	3	0	0	1	1	0	0	0	Actinobacteria;Thermoleophilia;Solirubrobacterales;;;
+forward_16S_741	2	2	0	0	0	0	1	4	1	2	0	0	0	0	Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;;
+forward_16S_742	2	0	0	0	0	0	7	1	1	0	1	0	0	0	Firmicutes;Bacilli;Bacillales;;;
+forward_16S_743	1	0	2	0	0	5	0	0	1	0	1	1	1	0	Proteobacteria;Gammaproteobacteria;;;;
+forward_16S_744	1	0	1	7	1	0	0	0	0	0	1	0	1	0	Verrucomicrobia;Spartobacteria;;;;
+forward_16S_745	1	0	0	0	6	4	0	0	0	0	0	0	1	0	
+forward_16S_746	1	0	0	1	0	0	10	0	0	0	0	0	0	0	Proteobacteria;Alphaproteobacteria;Rhodospirillales;Acetobacteraceae;;
+forward_16S_747	1	0	1	2	0	0	2	1	3	0	2	0	0	0	Bacteroidetes;Chitinophagia;Chitinophagales;Chitinophagaceae;Segetibacter;Segetibacter koreensis
+forward_16S_748	1	0	0	2	0	0	9	0	0	0	0	0	0	0	Bacteroidetes;Cytophagia;Cytophagales;Hymenobacteraceae;Adhaeribacter;Adhaeribacter aerophilus
+forward_16S_749	1	0	1	0	0	0	8	0	1	0	1	0	0	0	Acidobacteria;Blastocatellia;;Pyrinomonadaceae;Brevitalea;Brevitalea deliciosa
+forward_16S_750	1	0	0	0	8	0	0	0	0	0	0	2	1	0	Acidobacteria;;;;Luteitalea;Luteitalea pratensis
+forward_16S_751	1	1	0	0	0	0	0	7	2	0	0	0	0	1	Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;;
+forward_16S_752	1	5	1	2	0	0	1	0	0	2	0	0	0	0	Actinobacteria;Actinobacteria;Geodermatophilales;Geodermatophilaceae;;
+forward_16S_753	1	1	1	3	2	0	4	0	0	0	0	0	0	0	Proteobacteria;Betaproteobacteria;Nitrosomonadales;Nitrosomonadaceae;Nitrosospira;Nitrosospira sp. 17SS
+forward_16S_754	1	0	1	1	0	1	4	0	0	1	1	0	1	1	Actinobacteria;Actinobacteria;Pseudonocardiales;Pseudonocardiaceae;Amycolatopsis;
+forward_16S_755	1	0	0	3	0	0	6	0	0	0	0	0	2	0	Proteobacteria;;;;;
+forward_16S_756	0	8	0	0	0	0	0	4	0	0	0	0	0	0	Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;;
+forward_16S_757	0	6	0	0	0	0	0	4	0	0	1	0	0	1	Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;;
+forward_16S_758	0	4	0	0	0	0	0	0	4	0	0	0	0	4	Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;
+forward_16S_759	0	3	0	1	0	0	4	1	1	2	0	0	0	0	Actinobacteria;Actinobacteria;Propionibacteriales;Nocardioidaceae;;
+forward_16S_760	0	2	2	1	1	0	0	2	3	0	0	0	0	1	Bacteroidetes;Chitinophagia;Chitinophagales;Chitinophagaceae;Flavisolibacter;Flavisolibacter ginsenosidimutans
+forward_16S_761	0	2	0	4	0	1	2	1	0	0	1	0	0	1	Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;;
+forward_16S_762	0	1	0	0	11	0	0	0	0	0	0	0	0	0	Proteobacteria;Deltaproteobacteria;Myxococcales;Polyangiaceae;;
+forward_16S_763	0	1	0	1	0	0	9	0	0	0	0	0	1	0	Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;;
+forward_16S_764	0	1	1	5	0	0	3	0	1	0	0	0	0	1	Actinobacteria;Actinobacteria;Geodermatophilales;Geodermatophilaceae;Blastococcus;Blastococcus sp. L1961
+forward_16S_765	0	1	0	0	1	0	0	5	0	0	1	0	0	2	Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;;
+forward_16S_766	0	0	5	0	5	2	0	0	0	0	0	0	0	0	Proteobacteria;Alphaproteobacteria;Rhizobiales;;;
+forward_16S_767	0	0	3	0	2	3	0	0	0	0	0	0	4	0	Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bradyrhizobium;
+forward_16S_768	0	0	3	0	2	0	5	0	0	0	2	0	0	0	Chloroflexi;Thermomicrobia;;;;
+forward_16S_769	0	0	1	0	0	0	11	0	0	0	0	0	0	0	Thaumarchaeota;Nitrososphaeria;Nitrososphaerales;Nitrososphaeraceae;Nitrososphaera;
+forward_16S_770	0	0	1	6	1	0	0	0	0	1	0	3	0	0	Proteobacteria;Deltaproteobacteria;Myxococcales;NA;NA;myxobacterium AT3-03
+forward_16S_771	0	0	0	3	0	0	3	3	2	1	0	0	0	0	Bacteroidetes;Cytophagia;Cytophagales;Hymenobacteraceae;Adhaeribacter;Adhaeribacter aquaticus
+forward_16S_772	0	0	0	3	0	0	9	0	0	0	0	0	0	0	Actinobacteria;Actinobacteria;Geodermatophilales;Geodermatophilaceae;NA;Geodermatophilaceae bacterium CIBE-G2
+forward_16S_773	0	0	0	2	8	1	0	0	0	0	0	1	0	0	Acidobacteria;;;;Luteitalea;Luteitalea pratensis
+forward_16S_774	0	0	0	2	0	0	10	0	0	0	0	0	0	0	Actinobacteria;Actinobacteria;Propionibacteriales;Nocardioidaceae;Nocardioides;Nocardioides sp. Tianshan46-1
+forward_16S_775	0	0	0	0	12	0	0	0	0	0	0	0	0	0	Verrucomicrobia;Verrucomicrobiae;Verrucomicrobiales;Verrucomicrobiaceae;NA;Verrucomicrobiaceae bacterium DC2c-37
+forward_16S_776	0	0	0	0	12	0	0	0	0	0	0	0	0	0	Thaumarchaeota;Nitrososphaeria;Nitrososphaerales;Nitrososphaeraceae;;
+forward_16S_777	0	0	0	0	12	0	0	0	0	0	0	0	0	0	Proteobacteria;Alphaproteobacteria;Sphingomonadales;Erythrobacteraceae;Altererythrobacter;
+forward_16S_778	0	0	0	0	12	0	0	0	0	0	0	0	0	0	Acidobacteria;;;;Luteitalea;Luteitalea pratensis
+forward_16S_779	0	0	0	0	12	0	0	0	0	0	0	0	0	0	;;;;;
+forward_16S_780	0	0	0	0	12	0	0	0	0	0	0	0	0	0	Bacteroidetes;Sphingobacteriia;Sphingobacteriales;NA;NA;Sphingobacteriales bacterium TP524
+forward_16S_781	0	0	0	0	11	0	0	0	0	0	0	1	0	0	Proteobacteria;Alphaproteobacteria;Rhodospirillales;;;
+forward_16S_782	0	0	0	0	11	0	0	0	0	0	0	1	0	0	Acidobacteria;Blastocatellia;;;Stenotrophobacter;Stenotrophobacter terrae
+forward_16S_783	0	0	0	0	10	0	0	0	0	0	0	2	0	0	Thaumarchaeota;Nitrososphaeria;Nitrososphaerales;Nitrososphaeraceae;;
+forward_16S_784	0	0	0	0	10	0	0	0	0	0	0	2	0	0	Proteobacteria;Gammaproteobacteria;NA;NA;NA;gamma proteobacterium SCGC AAA007-P21
+forward_16S_785	0	0	0	0	8	4	0	0	0	0	0	0	0	0	Proteobacteria;Gammaproteobacteria;Cellvibrionales;Cellvibrionaceae;Cellvibrio;
+forward_16S_786	0	0	0	0	6	6	0	0	0	0	0	0	0	0	Actinobacteria;Actinobacteria;Propionibacteriales;Nocardioidaceae;Kribbella;Kribbella sp. enrichment culture clone VanCtr42
+forward_16S_787	0	0	0	0	5	6	0	0	0	0	0	1	0	0	Proteobacteria;Gammaproteobacteria;;;;
+forward_16S_788	0	0	0	0	5	7	0	0	0	0	0	0	0	0	Bacteroidetes;Chitinophagia;Chitinophagales;Chitinophagaceae;;
+forward_16S_789	0	0	0	0	1	6	4	0	0	0	0	0	1	0	Acidobacteria;;;;Luteitalea;Luteitalea pratensis
+forward_16S_790	0	0	0	0	0	0	12	0	0	0	0	0	0	0	Planctomycetes;Planctomycetia;Planctomycetales;Gemmataceae;Gemmata;Gemmata sp. SD2-6
+forward_16S_791	0	0	0	0	0	0	12	0	0	0	0	0	0	0	Proteobacteria;Alphaproteobacteria;Rhizobiales;Methylobacteriaceae;Methylobacterium;Methylobacterium sp. Ma5
+forward_16S_792	0	0	0	0	0	0	12	0	0	0	0	0	0	0	Acidobacteria;;;;Luteitalea;Luteitalea pratensis
+forward_16S_793	0	0	0	0	0	0	12	0	0	0	0	0	0	0	Gemmatimonadetes;Gemmatimonadetes;Gemmatimonadales;Gemmatimonadaceae;Gemmatimonas;
+forward_16S_794	0	0	0	0	0	0	12	0	0	0	0	0	0	0	Actinobacteria;Thermoleophilia;Solirubrobacterales;Conexibacteraceae;Conexibacter;
+forward_16S_795	0	0	0	0	0	0	10	0	0	0	0	0	2	0	Gemmatimonadetes;Gemmatimonadetes;Gemmatimonadales;Gemmatimonadaceae;Gemmatimonas;Gemmatimonas aurantiaca
+forward_16S_796	0	0	0	0	0	0	0	12	0	0	0	0	0	0	Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;
+forward_16S_797	0	0	0	0	0	0	0	2	0	10	0	0	0	0	Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Janthinobacterium;
+forward_16S_798	0	0	0	0	0	0	0	0	0	12	0	0	0	0	Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;;
+forward_16S_799	7	0	1	2	0	0	0	0	0	0	0	0	1	0	Acidobacteria;;;;Luteitalea;Luteitalea pratensis
+forward_16S_800	6	0	3	0	0	0	0	0	0	0	2	0	0	0	Firmicutes;;;;;
+forward_16S_801	4	0	0	0	0	1	6	0	0	0	0	0	0	0	Acidobacteria;;;;Luteitalea;Luteitalea pratensis
+forward_16S_802	3	0	1	1	2	0	0	0	0	0	3	1	0	0	Planctomycetes;Planctomycetia;Planctomycetales;;;
+forward_16S_803	3	0	0	3	0	0	3	0	0	0	1	1	0	0	Planctomycetes;Planctomycetia;NA;NA;NA;Planctomycetia bacterium LP82
+forward_16S_804	3	0	0	0	0	0	2	0	0	0	2	0	3	1	Gemmatimonadetes;Gemmatimonadetes;Gemmatimonadales;Gemmatimonadaceae;;
+forward_16S_805	3	0	0	7	0	0	0	0	0	0	1	0	0	0	Verrucomicrobia;Verrucomicrobiae;Verrucomicrobiales;Verrucomicrobia subdivision 3;;
+forward_16S_806	3	0	0	0	6	0	0	0	0	0	2	0	0	0	Planctomycetes;Planctomycetia;Planctomycetales;NA;NA;Planctomycete enrichment culture clone Lt-C7
+forward_16S_807	3	0	2	1	0	0	2	0	0	0	2	0	1	0	Armatimonadetes;Chthonomonadetes;Chthonomonadales;Chthonomonadaceae;Chthonomonas;Chthonomonas calidirosea
+forward_16S_808	3	0	2	0	0	0	1	0	0	0	3	0	2	0	Acidobacteria;;;;Luteitalea;Luteitalea pratensis
+forward_16S_809	3	0	2	0	0	0	2	3	0	0	0	0	1	0	Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;;
+forward_16S_810	2	0	0	1	0	0	6	0	0	0	1	0	1	0	Planctomycetes;Planctomycetia;Planctomycetales;;;
+forward_16S_811	2	0	2	0	3	2	0	0	1	0	0	1	0	0	Acidobacteria;;;;Luteitalea;Luteitalea pratensis
+forward_16S_812	2	0	0	6	0	0	0	0	1	0	1	0	0	1	Verrucomicrobia;Spartobacteria;NA;NA;NA;bacterium Ellin506
+forward_16S_813	2	0	1	0	6	0	0	0	0	0	1	1	0	0	Acidobacteria;;;;Luteitalea;Luteitalea pratensis
+forward_16S_814	2	0	1	1	3	0	0	0	2	0	2	0	0	0	Proteobacteria;Betaproteobacteria;Burkholderiales;;;
+forward_16S_815	2	2	1	0	0	0	0	5	1	0	0	0	0	0	Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Massilia;
+forward_16S_816	2	2	4	0	0	0	1	0	0	1	0	0	0	1	Actinobacteria;Actinobacteria;Frankiales;Frankiaceae;Frankia;
+forward_16S_817	1	0	0	2	0	0	6	0	0	1	0	0	1	0	Planctomycetes;Planctomycetia;NA;NA;NA;Planctomycetia bacterium LP82
+forward_16S_818	1	0	0	0	8	0	0	2	0	0	0	0	0	0	Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;
+forward_16S_819	1	0	0	0	5	1	1	0	0	0	0	2	0	1	Thaumarchaeota;Nitrososphaeria;Nitrososphaerales;Nitrososphaeraceae;Candidatus Nitrosocosmicus;
+forward_16S_820	1	0	0	0	0	1	6	0	0	0	0	0	3	0	Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bradyrhizobium;
+forward_16S_821	1	0	0	0	6	4	0	0	0	0	0	0	0	0	Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;
+forward_16S_822	1	0	0	10	0	0	0	0	0	0	0	0	0	0	Bacteroidetes;;;;;
+forward_16S_823	1	0	2	2	0	0	6	0	0	0	0	0	0	0	Gemmatimonadetes;Gemmatimonadetes;Gemmatimonadales;Gemmatimonadaceae;Gemmatimonas;
+forward_16S_824	1	0	3	0	1	0	3	0	0	0	2	0	1	0	Acidobacteria;;;;Luteitalea;Luteitalea pratensis
+forward_16S_825	1	0	0	0	0	0	10	0	0	0	0	0	0	0	Firmicutes;Bacilli;Bacillales;Alicyclobacillaceae;;
+forward_16S_826	1	0	2	3	1	1	0	1	0	0	0	1	0	1	Proteobacteria;Betaproteobacteria;Burkholderiales;;;
+forward_16S_827	1	3	0	1	0	0	1	2	0	1	0	1	0	1	Proteobacteria;Betaproteobacteria;;;;
+forward_16S_828	1	1	0	1	0	0	0	3	3	2	0	0	0	0	Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Herbaspirillum;
+forward_16S_829	1	4	0	0	0	0	0	2	1	0	2	0	1	0	Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;;
+forward_16S_830	1	0	0	0	0	0	10	0	0	0	0	0	0	0	Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Massilia;
+forward_16S_831	1	2	3	0	0	1	1	1	1	0	0	0	0	1	Actinobacteria;Actinobacteria;Geodermatophilales;Geodermatophilaceae;Modestobacter;Modestobacter sp. x11r1
+forward_16S_832	1	0	1	1	0	0	7	1	0	0	0	0	0	0	Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Cupriavidus;Cupriavidus sp.
+forward_16S_833	1	2	3	0	0	0	2	1	0	0	0	1	0	1	Actinobacteria;Actinobacteria;Pseudonocardiales;Pseudonocardiaceae;Actinomycetospora;
+forward_16S_834	0	10	1	0	0	0	0	0	0	0	0	0	0	0	Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Massilia;
+forward_16S_835	0	4	0	2	0	0	1	0	0	4	0	0	0	0	Actinobacteria;Actinobacteria;Micrococcales;Micrococcaceae;Arthrobacter;
+forward_16S_836	0	3	2	2	0	0	3	0	1	0	0	0	0	0	Bacteroidetes;Chitinophagia;Chitinophagales;Chitinophagaceae;Segetibacter;Segetibacter koreensis
+forward_16S_837	0	3	0	0	0	0	5	0	1	2	0	0	0	0	Bacteroidetes;Chitinophagia;Chitinophagales;Chitinophagaceae;Segetibacter;
+forward_16S_838	0	3	1	0	0	0	0	2	0	0	0	0	0	5	Proteobacteria;Betaproteobacteria;Burkholderiales;;;
+forward_16S_839	0	2	0	2	0	0	4	0	0	2	0	0	0	1	Actinobacteria;Actinobacteria;Micrococcales;Micrococcaceae;Arthrobacter;
+forward_16S_840	0	2	0	2	0	0	1	3	0	3	0	0	0	0	Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;;
+forward_16S_841	0	1	0	0	0	0	7	0	1	2	0	0	0	0	Bacteroidetes;Chitinophagia;Chitinophagales;Chitinophagaceae;Segetibacter;Segetibacter koreensis
+forward_16S_842	0	0	8	0	0	0	0	0	1	0	0	0	2	0	Thaumarchaeota;Nitrososphaeria;Nitrososphaerales;Nitrososphaeraceae;Candidatus Nitrosocosmicus;
+forward_16S_843	0	0	3	4	1	1	2	0	0	0	0	0	0	0	Acidobacteria;;;;Luteitalea;Luteitalea pratensis
+forward_16S_844	0	0	2	0	0	0	7	0	0	0	1	1	0	0	Planctomycetes;Planctomycetia;Planctomycetales;;;
+forward_16S_845	0	0	2	1	0	0	8	0	0	0	0	0	0	0	Thaumarchaeota;Nitrososphaeria;Nitrososphaerales;Nitrososphaeraceae;Nitrososphaera;Candidatus Nitrososphaera sp. THUAOA
+forward_16S_846	0	0	2	2	1	0	5	1	0	0	0	0	0	0	Bacteroidetes;Chitinophagia;Chitinophagales;Chitinophagaceae;;
+forward_16S_847	0	0	2	5	0	0	1	0	0	0	0	3	0	0	Acidobacteria;;;;Luteitalea;Luteitalea pratensis
+forward_16S_848	0	0	1	1	0	0	9	0	0	0	0	0	0	0	Planctomycetes;Planctomycetia;NA;NA;NA;Planctomycetia bacterium LP82
+forward_16S_849	0	0	1	0	9	1	0	0	0	0	0	0	0	0	Proteobacteria;Gammaproteobacteria;;;;
+forward_16S_850	0	0	1	4	0	0	5	0	0	0	0	0	0	1	Verrucomicrobia;Spartobacteria;;;;
+forward_16S_851	0	0	1	0	7	1	0	0	0	0	1	1	0	0	Acidobacteria;;;;Luteitalea;Luteitalea pratensis
+forward_16S_852	0	0	1	1	0	0	1	1	4	1	0	0	0	2	Proteobacteria;Betaproteobacteria;Burkholderiales;;;
+forward_16S_853	0	0	0	4	0	0	7	0	0	0	0	0	0	0	Planctomycetes;Planctomycetia;Planctomycetales;Planctomycetaceae;NA;planctomycete LX80
+forward_16S_854	0	0	0	2	0	0	8	0	0	0	0	1	0	0	Planctomycetes;Planctomycetia;Planctomycetales;Planctomycetaceae;NA;planctomycete LX80
+forward_16S_855	0	0	0	1	10	0	0	0	0	0	0	0	0	0	Planctomycetes;Planctomycetia;Planctomycetales;Planctomycetaceae;Planctomyces;Planctomyces sp.
+forward_16S_856	0	0	0	1	0	0	9	0	0	1	0	0	0	0	Proteobacteria;Alphaproteobacteria;;;;
+forward_16S_857	0	0	0	1	0	0	9	1	0	0	0	0	0	0	Bacteroidetes;Chitinophagia;Chitinophagales;Chitinophagaceae;Flavisolibacter;
+forward_16S_858	0	0	0	0	11	0	0	0	0	0	0	0	0	0	Thaumarchaeota;Nitrososphaeria;Nitrososphaerales;Nitrososphaeraceae;Nitrososphaera;Candidatus Nitrososphaera sp. THUAOA
+forward_16S_859	0	0	0	0	11	0	0	0	0	0	0	0	0	0	Firmicutes;Clostridia;Clostridiales;Peptococcaceae;Desulfotomaculum;Desulfotomaculum tongense
+forward_16S_860	0	0	0	0	11	0	0	0	0	0	0	0	0	0	Proteobacteria;Betaproteobacteria;Burkholderiales;;Leptothrix;
+forward_16S_861	0	0	0	0	10	0	0	0	0	0	0	1	0	0	Acidobacteria;;;;Luteitalea;Luteitalea pratensis
+forward_16S_862	0	0	0	0	10	0	0	0	0	0	0	1	0	0	Proteobacteria;;;;;
+forward_16S_863	0	0	0	0	10	1	0	0	0	0	0	0	0	0	Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;NA;[Pseudomonas] boreopolis
+forward_16S_864	0	0	0	0	10	0	0	0	0	0	0	1	0	0	Bacteroidetes;Saprospiria;Saprospirales;Lewinellaceae;Lewinella;Lewinella nigricans
+forward_16S_865	0	0	0	0	9	0	0	0	0	0	0	2	0	0	Verrucomicrobia;Spartobacteria;NA;NA;NA;unidentified eubacterium EA25
+forward_16S_866	0	0	0	0	9	0	0	0	0	0	0	2	0	0	Acidobacteria;;;;Luteitalea;Luteitalea pratensis
+forward_16S_867	0	0	0	0	8	3	0	0	0	0	0	0	0	0	Verrucomicrobia;Opitutae;Opitutales;Opitutaceae;Lacunisphaera;
+forward_16S_868	0	0	0	0	7	1	0	1	0	0	0	0	0	2	Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;Variovorax;
+forward_16S_869	0	0	0	0	6	0	0	0	0	0	0	5	0	0	Acidobacteria;Blastocatellia;;;Stenotrophobacter;Stenotrophobacter terrae
+forward_16S_870	0	0	0	0	2	7	0	0	0	0	0	2	0	0	Actinobacteria;Actinobacteria;Pseudonocardiales;Pseudonocardiaceae;Pseudonocardia;
+forward_16S_871	0	0	0	0	0	0	11	0	0	0	0	0	0	0	Planctomycetes;Planctomycetia;Planctomycetales;;;
+forward_16S_872	0	0	0	0	0	0	11	0	0	0	0	0	0	0	Planctomycetes;Planctomycetia;Planctomycetales;Gemmataceae;Gemmata;Gemmata sp. SD2-6
+forward_16S_873	0	0	0	0	0	0	11	0	0	0	0	0	0	0	Acidobacteria;Holophagae;Holophagales;Holophagaceae;Holophaga;Holophaga sp. oral clone CA002
+forward_16S_874	0	0	0	0	0	0	11	0	0	0	0	0	0	0	Verrucomicrobia;Spartobacteria;;;;
+forward_16S_875	0	0	0	0	0	0	11	0	0	0	0	0	0	0	Firmicutes;Bacilli;Bacillales;;;
+forward_16S_876	0	0	0	0	0	0	11	0	0	0	0	0	0	0	Actinobacteria;Thermoleophilia;Solirubrobacterales;;;
+forward_16S_877	0	0	0	0	0	0	10	0	0	0	1	0	0	0	Planctomycetes;Planctomycetia;Planctomycetales;;;
+forward_16S_878	0	0	0	0	0	0	10	1	0	0	0	0	0	0	Firmicutes;Bacilli;Bacillales;Bacillaceae;Bacillus;
+forward_16S_879	0	0	0	0	0	0	0	8	0	0	0	0	0	3	Proteobacteria;Betaproteobacteria;NA;NA;NA;beta proteobacterium SAT1
+forward_16S_880	0	0	0	0	0	0	0	0	11	0	0	0	0	0	Verrucomicrobia;Spartobacteria;;;;
+forward_16S_881	9	0	0	0	0	0	0	0	0	0	1	0	0	0	Firmicutes;;;;;
+forward_16S_882	6	0	0	0	0	0	0	0	0	0	4	0	0	0	Proteobacteria;Alphaproteobacteria;Rhizobiales;Methylobacteriaceae;;
+forward_16S_883	6	0	1	0	0	0	0	0	0	0	0	0	3	0	Firmicutes;;;;;
+forward_16S_884	5	0	1	0	0	0	1	0	0	0	3	0	0	0	Verrucomicrobia;Spartobacteria;;;;
+forward_16S_885	4	0	1	1	3	0	0	0	1	0	0	0	0	0	Acidobacteria;;;;Luteitalea;Luteitalea pratensis
+forward_16S_886	4	0	0	6	0	0	0	0	0	0	0	0	0	0	Proteobacteria;Alphaproteobacteria;Rhizobiales;NA;NA;Rhizobiales bacterium URHE0042
+forward_16S_887	4	0	3	0	0	0	1	0	2	0	0	0	0	0	Acidobacteria;;;;Luteitalea;Luteitalea pratensis
+forward_16S_888	3	0	1	1	0	0	3	0	0	0	1	1	0	0	Verrucomicrobia;Verrucomicrobiae;Verrucomicrobiales;Verrucomicrobia subdivision 3;NA;bacterium Ellin517
+forward_16S_889	3	0	1	5	0	0	0	0	0	0	0	0	0	1	Verrucomicrobia;Spartobacteria;;;;
+forward_16S_890	3	0	0	0	0	0	7	0	0	0	0	0	0	0	Verrucomicrobia;Spartobacteria;NA;NA;NA;bacterium Ellin511
+forward_16S_891	3	0	1	0	1	0	0	0	1	0	1	1	2	0	Verrucomicrobia;Spartobacteria;;;;
+forward_16S_892	3	0	2	2	1	0	0	0	0	1	1	0	0	0	Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;;
+forward_16S_893	3	0	2	2	1	0	0	0	1	0	0	0	1	0	Proteobacteria;Alphaproteobacteria;Rhizobiales;Hyphomicrobiaceae;Devosia;Devosia sp. CK32 8.1
+forward_16S_894	3	0	0	6	0	1	0	0	0	0	0	0	0	0	Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;;
+forward_16S_895	3	0	5	0	0	0	0	0	0	0	1	0	1	0	Acidobacteria;Blastocatellia;;Pyrinomonadaceae;Arenimicrobium;Arenimicrobium luteum
+forward_16S_896	3	0	0	1	0	0	2	0	1	0	1	0	0	2	Chloroflexi;Thermomicrobia;Sphaerobacterales;Sphaerobacteraceae;Sphaerobacter;Sphaerobacter thermophilus
+forward_16S_897	3	1	0	3	0	0	1	0	1	1	0	0	0	0	Actinobacteria;Actinobacteria;Micrococcales;Microbacteriaceae;;
+forward_16S_898	3	0	6	0	0	0	0	0	0	0	1	0	0	0	Proteobacteria;Betaproteobacteria;;;;
+forward_16S_899	2	0	0	0	7	0	1	0	0	0	0	0	0	0	Planctomycetes;Planctomycetia;NA;NA;NA;Planctomycetia bacterium LP82
+forward_16S_900	2	0	1	2	0	0	5	0	0	0	0	0	0	0	Planctomycetes;Planctomycetia;NA;NA;NA;Planctomycetia bacterium LP82
+forward_16S_901	2	0	0	4	0	0	2	0	1	0	0	0	0	1	Verrucomicrobia;Spartobacteria;;;;
+forward_16S_902	2	0	0	3	0	0	2	0	0	2	1	0	0	0	Proteobacteria;Alphaproteobacteria;Rhizobiales;Methylobacteriaceae;Microvirga;Microvirga sp. HPCKc-4(6)
+forward_16S_903	2	0	1	4	0	0	1	0	1	0	1	0	0	0	Proteobacteria;Alphaproteobacteria;Rhizobiales;Methylobacteriaceae;Microvirga;Microvirga sp. HPCKc-4(6)
+forward_16S_904	2	0	0	2	1	0	3	0	0	0	2	0	0	0	Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;NA;Sphingomonadaceae bacterium Gsoil 690
+forward_16S_905	2	1	0	1	0	0	6	0	0	0	0	0	0	0	Bacteroidetes;Chitinophagia;Chitinophagales;Chitinophagaceae;Segetibacter;Segetibacter aerophilus
+forward_16S_906	2	0	4	1	0	0	1	0	0	0	0	0	2	0	Acidobacteria;Blastocatellia;;Pyrinomonadaceae;Arenimicrobium;Arenimicrobium luteum
+forward_16S_907	2	0	2	1	0	0	2	0	1	0	0	0	1	1	Acidobacteria;Blastocatellia;;Pyrinomonadaceae;Arenimicrobium;Arenimicrobium luteum
+forward_16S_908	2	0	1	1	0	0	2	0	0	0	1	0	3	0	Actinobacteria;Thermoleophilia;Solirubrobacterales;;;
+forward_16S_909	2	2	0	0	0	0	1	3	1	0	0	0	0	1	Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Massilia;Massilia timonae
+forward_16S_910	2	1	0	1	0	0	3	0	0	1	2	0	0	0	Proteobacteria;Betaproteobacteria;Burkholderiales;;;
+forward_16S_911	2	0	0	1	0	0	1	0	0	0	2	2	2	0	Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Limnobacter;Limnobacter sp. KP1-3
+forward_16S_912	2	0	0	0	0	0	0	1	5	0	0	0	0	2	Firmicutes;Bacilli;Bacillales;Planococcaceae;;
+forward_16S_913	1	0	4	0	0	0	1	0	2	0	0	0	0	2	Planctomycetes;Planctomycetia;Planctomycetales;Planctomycetaceae;;
+forward_16S_914	1	0	0	2	0	0	7	0	0	0	0	0	0	0	Planctomycetes;Planctomycetia;Planctomycetales;;;
+forward_16S_915	1	0	3	1	0	0	2	0	0	0	3	0	0	0	Planctomycetes;Planctomycetia;Planctomycetales;Planctomycetaceae;NA;planctomycete WWH14
+forward_16S_916	1	0	6	2	0	0	0	0	0	0	1	0	0	0	Proteobacteria;Deltaproteobacteria;Myxococcales;Polyangiaceae;Aetherobacter;
+forward_16S_917	1	0	0	0	3	3	0	0	0	0	0	2	1	0	Planctomycetes;Planctomycetia;Planctomycetales;NA;NA;Planctomycete enrichment culture clone Lt-C7
+forward_16S_918	1	0	8	0	0	0	0	0	0	0	0	0	1	0	;;;;;
+forward_16S_919	1	0	0	0	0	0	4	0	0	0	0	0	5	0	Acidobacteria;Holophagae;Holophagales;Holophagaceae;Holophaga;Holophaga sp. oral clone CA002
+forward_16S_920	1	0	0	0	8	0	0	0	0	0	1	0	0	0	Acidobacteria;;;;Luteitalea;Luteitalea pratensis
+forward_16S_921	1	0	3	3	0	0	2	0	0	0	0	0	1	0	Acidobacteria;;;;Luteitalea;Luteitalea pratensis
+forward_16S_922	1	0	1	1	0	0	5	0	0	0	1	0	1	0	Acidobacteria;;;;Luteitalea;Luteitalea pratensis
+forward_16S_923	1	0	0	0	0	1	0	5	0	0	0	0	0	2	Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;
+forward_16S_924	1	2	0	0	0	0	0	4	0	1	1	0	0	1	Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;
+forward_16S_925	1	0	0	5	1	1	1	0	1	0	0	0	0	0	Verrucomicrobia;Verrucomicrobiae;Verrucomicrobiales;Verrucomicrobiaceae;Prosthecobacter;
+forward_16S_926	1	0	4	0	0	0	0	0	0	1	0	1	3	0	Verrucomicrobia;Spartobacteria;;;;
+forward_16S_927	1	0	2	0	6	0	0	0	0	0	1	0	0	0	Verrucomicrobia;Spartobacteria;;;;
+forward_16S_928	1	0	7	0	0	0	1	0	0	1	0	0	0	0	Thaumarchaeota;Nitrososphaeria;Nitrososphaerales;Nitrososphaeraceae;Candidatus Nitrosocosmicus;
+forward_16S_929	1	0	0	0	5	1	3	0	0	0	0	0	0	0	Thaumarchaeota;Nitrososphaeria;Nitrososphaerales;Nitrososphaeraceae;Candidatus Nitrosocosmicus;
+forward_16S_930	1	0	6	0	0	0	0	0	0	0	1	2	0	0	Thaumarchaeota;Nitrososphaeria;Nitrososphaerales;Nitrososphaeraceae;Candidatus Nitrosocosmicus;
+forward_16S_931	1	2	0	0	1	3	0	0	0	0	0	2	1	0	Proteobacteria;Alphaproteobacteria;Caulobacterales;Caulobacteraceae;Phenylobacterium;
+forward_16S_932	1	0	4	2	0	3	0	0	0	0	0	0	0	0	Proteobacteria;Alphaproteobacteria;;;;
+forward_16S_933	1	0	0	3	0	0	4	0	0	1	0	0	0	1	Proteobacteria;Alphaproteobacteria;Rhizobiales;Phyllobacteriaceae;;
+forward_16S_934	1	2	0	0	0	0	2	1	2	0	0	0	0	2	Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Sphingobacteriaceae;Pedobacter;
+forward_16S_935	1	0	2	0	1	0	0	0	2	0	4	0	0	0	Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingomonas;
+forward_16S_936	1	3	0	1	0	0	3	0	0	0	0	0	2	0	Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingomonas;
+forward_16S_937	1	1	2	1	0	0	4	0	0	0	0	0	0	1	Bacteroidetes;Chitinophagia;Chitinophagales;Chitinophagaceae;Segetibacter;Segetibacter koreensis
+forward_16S_938	1	0	0	0	1	0	2	0	0	0	1	5	0	0	Acidobacteria;Blastocatellia;;Pyrinomonadaceae;Brevitalea;
+forward_16S_939	1	0	2	0	3	2	1	0	0	0	0	0	1	0	Acidobacteria;;;;Luteitalea;Luteitalea pratensis
+forward_16S_940	1	0	0	1	0	0	7	0	0	0	0	0	1	0	Actinobacteria;Thermoleophilia;Solirubrobacterales;Conexibacteraceae;Conexibacter;
+forward_16S_941	1	0	3	0	4	0	1	0	0	0	0	1	0	0	Actinobacteria;Thermoleophilia;Solirubrobacterales;Solirubrobacteraceae;Solirubrobacter;
+forward_16S_942	1	0	6	0	0	0	0	0	0	0	3	0	0	0	Proteobacteria;Betaproteobacteria;Burkholderiales;;;
+forward_16S_943	1	2	0	0	0	0	0	3	4	0	0	0	0	0	Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Massilia;
+forward_16S_944	0	5	2	0	0	0	2	0	0	0	0	0	0	1	Planctomycetes;Planctomycetia;Planctomycetales;;;
+forward_16S_945	0	5	0	0	0	0	0	2	1	1	0	0	0	1	Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas benzenivorans
+forward_16S_946	0	5	1	0	0	0	1	0	1	1	0	0	1	0	Proteobacteria;Betaproteobacteria;NA;NA;NA;beta proteobacterium FSW05-50
+forward_16S_947	0	5	0	0	0	0	1	1	2	1	0	0	0	0	Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;;
+forward_16S_948	0	4	2	1	0	0	1	1	0	0	0	0	0	1	Proteobacteria;Alphaproteobacteria;;;;
+forward_16S_949	0	4	0	0	1	0	0	2	0	0	0	0	0	3	Actinobacteria;Actinobacteria;Micrococcales;Microbacteriaceae;Curtobacterium;
+forward_16S_950	0	3	1	0	0	1	0	0	1	2	0	0	0	2	Proteobacteria;Alphaproteobacteria;Rhizobiales;Methylobacteriaceae;Methylobacterium;
+forward_16S_951	0	2	0	0	0	0	1	0	1	0	0	0	0	6	Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium;[Clostridium] cellobioparum
+forward_16S_952	0	1	0	0	0	0	8	0	0	0	0	0	1	0	Verrucomicrobia;Spartobacteria;NA;NA;NA;unidentified eubacterium RB35
+forward_16S_953	0	1	3	0	0	0	5	0	0	0	0	0	1	0	Proteobacteria;Alphaproteobacteria;Rhizobiales;Beijerinckiaceae;Beijerinckia;
+forward_16S_954	0	1	0	0	0	0	6	0	0	1	0	0	0	2	Proteobacteria;Alphaproteobacteria;;;;
+forward_16S_955	0	1	0	2	0	0	1	0	1	2	1	2	0	0	Acidobacteria;Blastocatellia;;;Stenotrophobacter;Stenotrophobacter terrae
+forward_16S_956	0	1	0	1	0	0	8	0	0	0	0	0	0	0	;;;;;
+forward_16S_957	0	1	1	1	0	0	2	2	0	1	0	0	0	2	Proteobacteria;Betaproteobacteria;;;;
+forward_16S_958	0	1	0	0	0	0	0	7	2	0	0	0	0	0	Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;;
+forward_16S_959	0	0	5	0	0	0	0	0	2	0	0	0	3	0	Planctomycetes;Planctomycetia;Planctomycetales;;;
+forward_16S_960	0	0	4	0	0	2	3	0	0	0	0	0	0	1	Acidobacteria;;;;Luteitalea;Luteitalea pratensis
+forward_16S_961	0	0	4	0	0	0	0	0	2	0	1	0	2	1	Proteobacteria;Alphaproteobacteria;Rhodospirillales;Acetobacteraceae;;
+forward_16S_962	0	0	3	4	0	0	3	0	0	0	0	0	0	0	Planctomycetes;Planctomycetia;Planctomycetales;;;
+forward_16S_963	0	0	3	0	4	2	0	0	0	0	0	1	0	0	Acidobacteria;;;;Luteitalea;Luteitalea pratensis
+forward_16S_964	0	0	3	1	0	0	6	0	0	0	0	0	0	0	Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;;
+forward_16S_965	0	0	2	0	0	0	8	0	0	0	0	0	0	0	Acidobacteria;Blastocatellia;;Pyrinomonadaceae;Brevitalea;Brevitalea deliciosa
+forward_16S_966	0	0	2	1	0	0	7	0	0	0	0	0	0	0	Chloroflexi;Thermomicrobia;Sphaerobacterales;Sphaerobacteraceae;Sphaerobacter;Sphaerobacter thermophilus
+forward_16S_967	0	0	1	2	1	0	4	0	0	0	1	0	1	0	Verrucomicrobia;Opitutae;Opitutales;Opitutaceae;Opitutus;
+forward_16S_968	0	0	1	0	0	0	5	0	0	0	0	0	4	0	Verrucomicrobia;Spartobacteria;;;;
+forward_16S_969	0	0	1	0	2	0	5	0	0	0	0	0	2	0	Acidobacteria;;;;Luteitalea;Luteitalea pratensis
+forward_16S_970	0	0	1	0	4	1	0	1	0	0	0	0	0	3	Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Rhizobium;
+forward_16S_971	0	0	1	0	3	0	4	0	0	0	1	1	0	0	Acidobacteria;;;;Luteitalea;Luteitalea pratensis
+forward_16S_972	0	0	1	0	0	0	9	0	0	0	0	0	0	0	Actinobacteria;Thermoleophilia;Solirubrobacterales;Solirubrobacteraceae;Solirubrobacter;
+forward_16S_973	0	0	1	1	0	0	8	0	0	0	0	0	0	0	Actinobacteria;Actinobacteria;Propionibacteriales;Nocardioidaceae;Kribbella;Kribbella sp. TR-24
+forward_16S_974	0	0	0	3	0	0	3	4	0	0	0	0	0	0	Gemmatimonadetes;Gemmatimonadetes;Gemmatimonadales;Gemmatimonadaceae;Gemmatirosa;Gemmatirosa kalamazoonesis
+forward_16S_975	0	0	0	2	0	0	8	0	0	0	0	0	0	0	Verrucomicrobia;Opitutae;Opitutales;Opitutaceae;Opitutus;
+forward_16S_976	0	0	0	1	5	2	0	1	0	0	1	0	0	0	Actinobacteria;Actinobacteria;Micrococcales;Cellulomonadaceae;Cellulomonas;
+forward_16S_977	0	0	0	1	0	0	9	0	0	0	0	0	0	0	Actinobacteria;;;;;
+forward_16S_978	0	0	0	1	0	0	9	0	0	0	0	0	0	0	Actinobacteria;Thermoleophilia;Solirubrobacterales;;;
+forward_16S_979	0	0	0	1	0	0	9	0	0	0	0	0	0	0	Actinobacteria;Actinobacteria;;;;
+forward_16S_980	0	0	0	1	0	0	8	0	0	0	0	0	1	0	Firmicutes;Bacilli;Bacillales;Bacillaceae;Bacillus;
+forward_16S_981	0	0	0	0	10	0	0	0	0	0	0	0	0	0	Acidobacteria;;;;Luteitalea;Luteitalea pratensis
+forward_16S_982	0	0	0	0	10	0	0	0	0	0	0	0	0	0	Verrucomicrobia;Spartobacteria;;;;
+forward_16S_983	0	0	0	0	10	0	0	0	0	0	0	0	0	0	Proteobacteria;;;;;
+forward_16S_984	0	0	0	0	10	0	0	0	0	0	0	0	0	0	Thaumarchaeota;Nitrososphaeria;Nitrososphaerales;Nitrososphaeraceae;;
+forward_16S_985	0	0	0	0	10	0	0	0	0	0	0	0	0	0	Thaumarchaeota;Nitrososphaeria;Nitrososphaerales;Nitrososphaeraceae;;
+forward_16S_986	0	0	0	0	10	0	0	0	0	0	0	0	0	0	Acidobacteria;;;;Luteitalea;Luteitalea pratensis
+forward_16S_987	0	0	0	0	10	0	0	0	0	0	0	0	0	0	Acidobacteria;;;;Luteitalea;Luteitalea pratensis
+forward_16S_988	0	0	0	0	10	0	0	0	0	0	0	0	0	0	NA;NA;Haloplasmatales;Haloplasmataceae;Haloplasma;Haloplasma contractile
+forward_16S_989	0	0	0	0	10	0	0	0	0	0	0	0	0	0	Firmicutes;Bacilli;Bacillales;NA;Exiguobacterium;Exiguobacterium mexicanum
+forward_16S_990	0	0	0	0	9	1	0	0	0	0	0	0	0	0	Proteobacteria;Alphaproteobacteria;;;;
+forward_16S_991	0	0	0	0	9	0	0	0	0	0	0	1	0	0	Thaumarchaeota;Nitrososphaeria;Nitrososphaerales;Nitrososphaeraceae;;
+forward_16S_992	0	0	0	0	8	0	1	0	0	0	0	1	0	0	Verrucomicrobia;Spartobacteria;Chthoniobacterales;Chthoniobacteraceae;Candidatus Udaeobacter;Candidatus Udaeobacter copiosus
+forward_16S_993	0	0	0	0	8	0	0	0	0	0	0	2	0	0	Proteobacteria;;;;;
+forward_16S_994	0	0	0	0	8	0	0	0	0	0	0	2	0	0	Thaumarchaeota;Nitrososphaeria;Nitrososphaerales;Nitrososphaeraceae;;
+forward_16S_995	0	0	0	0	8	1	0	0	0	0	0	0	0	1	Proteobacteria;Alphaproteobacteria;;;;
+forward_16S_996	0	0	0	0	8	1	0	0	0	0	0	1	0	0	Acidobacteria;;;;Luteitalea;Luteitalea pratensis
+forward_16S_997	0	0	0	0	8	1	0	0	0	0	0	1	0	0	Bacteroidetes;Sphingobacteriia;Sphingobacteriales;NA;NA;Sphingobacteriales bacterium TP524
+forward_16S_998	0	0	0	0	7	2	0	1	0	0	0	0	0	0	Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;

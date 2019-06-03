@@ -13,7 +13,9 @@ I will be taking three files and all their common and uncommon header rows and u
 # First step will be to import the tables and distinguish how many rows and columns there are in each table (Meatdata will be concatenated with Metadata and OTU with OTU).
 
 data_file_meta1 = pd.read_excel('sample_17_metadata.xlsx')
+
 data_file_meta2 = pd.read_excel('sample_18_metadata.xlsx')
+
 data_file_meta3 = pd.read_excel('sample_19_metadata.xlsx')
 
 # Next we will take a look at the Metadata tables to determine a concatenated header row with common and uncommon headers (common headers are included in all and uncommon headers are only present on some tables)

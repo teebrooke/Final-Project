@@ -8,7 +8,7 @@ Living organisms are continuously moving throughout their environment, shedding 
 The purpose of my project is to merge tables with a single header and single row, thus the tables will be concatenated with repsect to their titles, Metadata and OTU seperately. I do not want to include repeating headers. For users, make sure that you have the same number of dimension of tables before using this program.
 
 # Psuedocode: 
-I will be taking three files and all their common and uncommon header rows and using that as the foundation for the final concatenated table. For example, some of the uncommon headers among the three tables in Metadata include Time Collection. The final concatenated header row will include all of theses headers, even if the table does not have any data for it. The same goes for the final concatenated OTU table. 
+I will be taking two sets of three tables and all their common and uncommon header rows and using that as the foundation for the final concatenated table. For example, some of the uncommon headers among the three tables in Metadata include Time Collection. The final concatenated header row will include all of theses headers, even if the table does not have any data for it. The same goes for the final concatenated OTU table. 
 
 # First step will be to import the tables and distinguish how many rows and columns there are in each table (Meatdata will be concatenated with Metadata and OTU with OTU).
 

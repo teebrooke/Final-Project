@@ -20,9 +20,9 @@ data_file_meta3 = pd.read_excel('sample_19_metadata.xlsx')
 
 # Next we will take a look at the Metadata tables to determine a concatenated header row with common and uncommon headers (common headers are included in all and uncommon headers are only present on some tables)
 
-# Set the input file name
-# (The program must be run from within the directory 
-# that contains this data file)
+#Set the input file name
+#(The program must be run from within the directory 
+#that contains this data file)
 #InFileName = 'Marrus_claudanielis.txt'
 
 #InFileName1 = input('Enter primary header file name: ')
@@ -37,7 +37,7 @@ InFileName2 = "sample_17_metadata.txt"
 
 InFileName3 = "sample_19_metadata.txt"
 
-# Open the input file for reading
+#Open the input file for reading
 
 InFile1 = open(InFileName1, 'r')
 

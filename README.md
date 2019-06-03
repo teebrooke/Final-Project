@@ -4,7 +4,7 @@
 # Introduction: Living organisms are continuously moving throughout their environment, shedding DNA as they travel. This DNA is collected by scientists and has been used to discover rare or invasive species as well as new pathogens in a variety of environments. The PUMA Project focuses on microbiome data and anaysis, for example the production of the 16S rRNA gene. The goal for their Project is to allow researchers to analyse their microbiome data without the use of command-line interface or R/Python scripting.
 
 # Backbone:
-# The purpose of my project is to merge tables with a single header and single row, thus the tables will be stacked on top of one another. I do not want to include repeating headers. For users, make sure that you have the same number of dimension of tables before using this program.
+# The purpose of my project is to merge tables with a single header and single row, thus the tables will be concatenated with repsect to their titles, Metadata and OTU seperately. I do not want to include repeating headers. For users, make sure that you have the same number of dimension of tables before using this program.
 
 # Psuedocode: I will be taking three files and all their common and uncommon header rows and using that as the foundation for the final concatenated table. For example, some of the uncommon headers among the three tables in Metadata include Time Collection. The final concatenated header row will include all of theses headers, even if the table does not have any data for it. The same goes for the final concatenated OTU table. 
 
@@ -14,7 +14,7 @@ data_file_meta1 = pd.read_excel('sample_17_metadata.xlsx')
 data_file_meta2 = pd.read_excel('sample_18_metadata.xlsx')
 data_file_meta3 = pd.read_excel('sample_19_metadata.xlsx')
 
-# Next we will take a look at thej Metadata tables to determine a concatenated header row with common and uncommon headers (common headers are included in all and uncommon headers are only present on some tables)
+# Next we will take a look at the Metadata tables to determine a concatenated header row with common and uncommon headers (common headers are included in all and uncommon headers are only present on some tables)
 
 # Set the input file name
 # (The program must be run from within the directory 

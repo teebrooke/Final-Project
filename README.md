@@ -133,14 +133,19 @@ for Line in InFile3:
 
 
 InFile1.close()
+
 InFile2.close()
+
 InFile3.close()
+
 OutFile.close()
   
 # Next we will work with the OTU data
 
 data_file_OTU1 = pd.read_excel('sample_17_OTUtable.xlsx')
+
 data_file_OTU2 = pd.read_excel('sample_18_OTUtable.xlsx')
+
 data_file_OTU3 = pd.read_excel('sample_19_OTUtable.xlsx')
 
 #!/usr/bin/env python

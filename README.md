@@ -15,72 +15,122 @@ data_file_meta3 = pd.read_excel('sample_19_metadata.xlsx')
 
 # Next we will take a look at thej Metadata tables to determine a concatenated header row with common and uncommon headers (common headers are included in all and uncommon headers are only present on some tables)
 
-#!/usr/bin/env python
+# Set the input file name
+# (The program must be run from within the directory 
+# that contains this data file)
+#InFileName = 'Marrus_claudanielis.txt'
 
-# Set the input file name 
-InFileName1 = sample_17_metadata.xlsx
+#InFileName1 = input('Enter primary header file name: ')
+
+#InFileName2 = input('Enter secondary header file name: ')
+
+#InFileName3 = input('Enter tertiary header file name: ')
+
+InFileName1 = "sample_18_metadata.txt"
+
+InFileName2 = "sample_17_metadata.txt"
+
+InFileName3 = "sample_19_metadata.txt"
+
 # Open the input file for reading
-InFile1 = open(InFileName1, 'sample_17_metadata.xlsx')
-# Initialize the counter used to keep track of lines
-LineNumber = 0
 
-# Loop through each line in the file 
-for Line in InFile1:
-  if LineNumber >= 0:     
-    # Remove the line ending characters
-    Line = Line.strip('\n')  ????????????????
-    # Print the line
-    print LineNumber, ":", Line 
-  LineNumber = LineNumber + 1  ????????
-  
-# After the loop is completed, close the file
-InFile1.close ()
-  
-# Next we will work with table two from sample_18_metadata.xlsx and not include the first line header, but will need to include time of collection since that header was not present in sample_17_metadata.xlsx
+InFile1 = open(InFileName1, 'r')
 
-#!/usr/bin/env python
+InFile2 = open(InFileName2, 'r')
 
-# Set the input file name 
-InFileName2 = sample_18_metadata.xlsx
-# Open the input file for reading
-InFile2 = open(InFileName2, 'sample_18_metadata.xlsx')
-# Initialize the counter used to keep track of lines
-LineNumber = 0
+InFile3 = open(InFileName3, 'r')
 
-# Loop through each line in the file 
+line1 = InFile1.readline()
+
+line2 = InFile2.readline()
+
+line3 = InFile3.readline()
+
+ElementList1 = line1.split('\t')
+
+ElementList2 = line2.split('\t')
+
+ElementList3 = line3.split('\t')
+
+for i in range(0,22):          
+
+        if ElementList1[i] != ElementList2[i]:
+               ElementList2.insert(i,'\t') # inserts tab
+               print(i)
+
+        if ElementList1[i] != ElementList3[i]:
+               ElementList3.insert(i,'\t') # inserts tab
+               print(i)
+
+for i in range(0,22):
+        print(ElementList2[i])
+
+for i in range(0,22):
+        print(ElementList3[i])
+
+OutFileHeader_metadata_merge = "tsa_merged_sample_metadata.txt"
+OutFile = open(OutFileHeader_metadata_merge,'w')
+
+OutFile.write(line1)
+
+InFile1.close()
+InFile2.close()
+InFile3.close()
+
+InFile1 = open(InFileName1, 'r')
+
+InFile2 = open(InFileName2, 'r')
+
+InFile3 = open(InFileName3, 'r')
+
+#line1 = InFile1.readline()
+
+line2 = InFile2.readline()
+
+#line3 = InFile3.readline()
+
 for Line in InFile2:
-  if LineNumber > 0:  EXCEPT I WANT TO KEEP ONE HEADER???????????
-    # Remove the line ending characters
-    Line = Line.strip('\n')  ????????????????
-    # Print the line
-    print LineNumber, ":", Line 
-  LineNumber = LineNumber + 1  ????????
-  
-# After the loop is completed, close the file
-InFile2.close ()
-  
-# For Infile3 we do not need to include any portion of the header. We just need to include column and rows 2A/19A-2T/19T
-    
-#!/usr/bin/env python
 
-# Set the input file name 
-InFileName3 = sample_19_metadata.xlsx
-# Open the input file for reading
-InFile3 = open(InFileName3, 'sample_19_metadata.xlsx')
-# Initialize the counter used to keep track of lines
-LineNumber = 0
+        ListNext = Line.split('\t')
 
-# Loop through each line in the file 
+        for i in range(0,22):
+                if ElementList2[i] == '\t':
+                        ListNext.insert(i,'\t')
+
+        for i in range(0,22):
+                if ((ElementList2[i] != '\t') and (ListNext[i] != '\r\n')):
+                        OutFile.write(ListNext[i]+ '\t')
+                       
+                else:
+                        OutFile.write(ListNext[i])
+
+
+
+
+for Line in InFile1:
+        
+        OutFile.write(Line)
+
 for Line in InFile3:
-  if LineNumber >= 0:
-    # Remove the line ending characters
-    Line = Line.strip('\n')  ????????????????
-    # Print the line
-    print LineNumber, ":", Line 
-  LineNumber = LineNumber + 1  ????????
 
-# After the loop is completed, close the file
-InFile3.close ()
+        ListNext = Line.split('\t')
+
+        for i in range(0,22):
+                if ElementList3[i] == '\t':
+                        ListNext.insert(i,'\t')
+
+        for i in range(0,22):
+                if ((ElementList3[i] != '\t') and (ListNext[i] != '\r\n')):
+                        OutFile.write(ListNext[i]+ '\t')
+                       
+                else:
+                        OutFile.write(ListNext[i])
+
+
+InFile1.close()
+InFile2.close()
+InFile3.close()
+OutFile.close()
   
 # Next we will work with the OTU data
 

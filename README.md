@@ -21,6 +21,7 @@ data_file_meta3 = pd.read_excel('sample_19_metadata.xlsx')
 # Next we will take a look at the Metadata tables to determine a concatenated header row with common and uncommon headers (common headers are included in all and uncommon headers are only present on some tables)
 
 #Set the input file name
+
 #(The program must be run from within the directory 
 #that contains this data file)
 
@@ -38,7 +39,7 @@ InFileName2 = "sample_17_metadata.txt"
 
 InFileName3 = "sample_19_metadata.txt"
 
-#Open the input file for reading
+# Open the input file for reading
 
 InFile1 = open(InFileName1, 'r')
 
@@ -73,14 +74,21 @@ for i in range(0,22):
 
 for i in range(0,22):
         print(ElementList3[i])
+        
+# Now to concatentate the headers into one common header
 
 OutFileHeader_metadata_merge = "tsa_merged_sample_metadata.txt"
+
 OutFile = open(OutFileHeader_metadata_merge,'w')
 
 OutFile.write(line1)
 
+# After the loop is completed, close the file
+
 InFile1.close()
+
 InFile2.close()
+
 InFile3.close()
 
 InFile1 = open(InFileName1, 'r')
@@ -108,10 +116,7 @@ for Line in InFile2:
                         OutFile.write(ListNext[i]+ '\t')
                        
                 else:
-                        OutFile.write(ListNext[i])
-
-
-
+                        OutFile.write(ListNext[i])                   
 
 for Line in InFile1:
         
@@ -131,7 +136,8 @@ for Line in InFile3:
                        
                 else:
                         OutFile.write(ListNext[i])
-
+                        
+# After the loop is completed, close the file
 
 InFile1.close()
 
@@ -140,6 +146,7 @@ InFile2.close()
 InFile3.close()
 
 OutFile.close()
+
   
 # Next we will work with the OTU data
 
@@ -149,24 +156,113 @@ data_file_OTU2 = pd.read_excel('sample_18_OTUtable.xlsx')
 
 data_file_OTU3 = pd.read_excel('sample_19_OTUtable.xlsx')
 
-#!/usr/bin/env python
+# Set input file name
 
-# Set the input file name 
-InFileName4 = sample_17_OTUtable.xlsx
+InFileName1 = "sample_17_OTUtable.txt"
+
+InFileName2 = "sample_18_OTUtable.txt"
+
+InFileName3 = "sample_19_OTUtable.txt"
+
 # Open the input file for reading
-InFile4 = open(InFileName4, 'sample_17_OTUtable.xlsx')
-# Initialize the counter used to keep track of lines
-LineNumber = 0
+
+OutFile_OTU_merge = "OTU_3_tables_merged.txt"
+
+OutFile = open(OutFile_OTU_merge,'w')
+
+InFile1 = open(InFileName1, 'r')
+
+InFile2 = open(InFileName2, 'r')
+
+InFile3 = open(InFileName3, 'r')
+
+header1 = InFile1.readline()
+
+header2 = InFile2.readline()
+
+header3 = InFile3.readline()
+
+# Now to concatentate the headers into one common header
+
+headerList1 = header1.split('\t')
+
+headerList2 = header2.split('\t')
+
+headerList3 = header3.split('\t')
 
 # Loop through each line in the file 
-for Line in InFile4:
-  if LineNumber >= 0:
-    # Remove the line ending characters
-    Line = Line.strip('\n')  ????????????????
-    # Print the line
-    print LineNumber, ":", Line 
-  LineNumber = LineNumber + 1  ????????
-  
+
+for i in range(0,15):
+
+    print(headerList1[i])
+
+for i in range(0,15):
+
+    OutFile.write(headerList1[i]+'\t')
+
+for i in range(1,15):
+
+    OutFile.write(headerList2[i]+'\t')
+
+for i in range(1,15):   
+
+    OutFile.write(headerList3[i]+'\t')
+
+OutFile.write(headerList3[15])
+
+for i in range(0,650):
+
+    line1 = InFile1.readline()
+
+    lineList1 = line1.split('\t')
+
+    lineList1[0] = lineList1[0] + '_17'
+
+    for i in range(15,44):
+
+        lineList1.insert(i,'0')
+
+    for i in range(0,43):
+
+        OutFile.write(lineList1[i]+'\t')            
+
+    OutFile.write(lineList1[44])
+
+for i in range(0,361):
+
+    line2 = InFile2.readline()
+
+    lineList2 = line2.split('\t')
+
+    lineList2[0] = lineList2[0] + '_18'
+
+    for i in range(1,15):
+
+        lineList2.insert(i,'0')
+
+    for i in range(29,44):
+
+        lineList2.insert(i,'0')
+
+    for i in range(0,43):
+
+        OutFile.write(lineList2[i]+'\t')
+
+    OutFile.write(lineList2[44]) 
+    
+# After the loop is completed, close the file
+
+InFile1.close()
+
+InFile2.close()
+
+InFile3.close()
+
+OutFile.close()
+
+
+
+
 # After the loop is completed, close the file
 InFile4.close ()
   

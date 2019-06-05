@@ -2,6 +2,7 @@
 
 # Author: 
 Taylor Alderete
+
 Email: teebrooke@g.ucla.edu
 
 # Introduction: 
@@ -10,7 +11,6 @@ This program is designed to take tables with large data sets that involve eDNA a
 # Purpose
 The purpose of my project is to concatenate tables with a single header and single row, thus the final tables will be concatenated with repsect to their titles, Metadata and OTU seperately. I do not want to include repeating headers. 
 
-# Expected Output
 
 # Program workflow
 

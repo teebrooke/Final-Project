@@ -16,15 +16,17 @@ The purpose of my project is to concatenate tables with a single header and sing
 
 1. Import the tables and distinguish how many rows and columns there are in each table (Meatdata will be concatenated with Metadata and OTU with OTU).
 
-2. Open the input file for reading
+2. Set input file name
 
-3. Now to concatentate the headers into one common header
+3. Open the input file for reading
 
-4. Use Python to look through each charcter and line 
+4. Now to concatentate the headers into one common header
 
-5. Use for loop for the ranges that need to include tabs 
+5. Use Python to look through each charcter and line 
 
-6. After the loop is completed, close the file
+6. Use for loop for the ranges that need to include tabs 
+
+7. After the loop is completed, close the file
 
 # Dependencies
 1. Python
@@ -40,8 +42,7 @@ data_file_meta2 = pd.read_excel('sample_18_metadata.xlsx')
 data_file_meta3 = pd.read_excel('sample_19_metadata.xlsx')
 
 
-
-#Set the input file name
+# Set the input file name
 
 #(The program must be run from within the directory 
 #that contains this data file)
@@ -68,6 +69,8 @@ InFile2 = open(InFileName2, 'r')
 
 InFile3 = open(InFileName3, 'r')
 
+# Initialize the counter used to keep track of lines
+
 line1 = InFile1.readline()
 
 line2 = InFile2.readline()
@@ -79,6 +82,8 @@ ElementList1 = line1.split('\t')
 ElementList2 = line2.split('\t')
 
 ElementList3 = line3.split('\t')
+
+# Loop through each line in the file
 
 for i in range(0,22):          
 
@@ -104,6 +109,7 @@ OutFile = open(OutFileHeader_metadata_merge,'w')
 
 OutFile.write(line1)
 
+
 # After the loop is completed, close the file
 
 InFile1.close()
@@ -111,6 +117,8 @@ InFile1.close()
 InFile2.close()
 
 InFile3.close()
+
+# Initialize the counter used to keep track of lines
 
 InFile1 = open(InFileName1, 'r')
 
@@ -123,6 +131,8 @@ InFile3 = open(InFileName3, 'r')
 line2 = InFile2.readline()
 
 #line3 = InFile3.readline()
+
+# Loop through each line in the file
 
 for Line in InFile2:
 
@@ -196,6 +206,8 @@ InFile1 = open(InFileName1, 'r')
 InFile2 = open(InFileName2, 'r')
 
 InFile3 = open(InFileName3, 'r')
+
+# Initialize the counter used to keep track of lines
 
 header1 = InFile1.readline()
 
@@ -281,57 +293,6 @@ InFile3.close()
 
 OutFile.close()
 
-
-
-
-# After the loop is completed, close the file
-InFile4.close ()
-  
-# Next we will work with sample_18_OTUtable.xlsx and sample_19_OTUtable.xlsx and completely ignore the header row.
- 
-#!/usr/bin/env python
-
-# Set the input file name 
-InFileName5 = sample_18_OTUtable.xlsx
-# Open the input file for reading
-InFile5 = open(InFileName5, 'sample_18_OTUtable.xlsx')
-# Initialize the counter used to keep track of lines
-LineNumber = 0
-
-# Loop through each line in the file 
-for Line in InFile5:
-  if LineNumber > 0:
-    # Remove the line ending characters
-    Line = Line.strip('\n')
-    # Print the line
-    print LineNumber, ":", Line 
-  LineNumber = LineNumber + 1  ????????
-  
-# After the loop is completed, close the file
-InFile5.close ()
-
-
-#!/usr/bin/env python
-
-# Set the input file name 
-InFileName6 = sample_19_OTUtable.xlsx
-# Open the input file for reading
-InFile6 = open(InFileName6, 'sample_19_OTUtable.xlsx')
-# Initialize the counter used to keep track of lines
-LineNumber = 0
-
-# Loop through each line in the file 
-for Line in InFile6:
-  if LineNumber > 0:
-    # Remove the line ending characters
-    Line = Line.strip('\n')  ????????????????
-    # Print the line
-    print LineNumber, ":", Line 
-  LineNumber = LineNumber + 1  ????????
-  
-# After the loop is completed, close the file
-
-InFile6.close ()
  
 # References:
 Python

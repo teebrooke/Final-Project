@@ -1,16 +1,38 @@
 # A.B.C (Always be Concatenating)
-# Author: Taylor Alderete
-# Email: teebrooke@g.ucla.edu
-# Introduction: 
-Living organisms are continuously moving throughout their environment, shedding DNA as they travel. This DNA is collected by scientists and has been used to discover rare or invasive species as well as new pathogens in a variety of environments. The PUMA Project focuses on microbiome data and anaysis, for example the production of the 16S rRNA gene. The goal for their Project is to allow researchers to analyse their microbiome data without the use of command-line interface or R/Python scripting.
 
-# Backbone:
-The purpose of my project is to concatenate tables with a single header and single row, thus the tables will be concatenated with repsect to their titles, Metadata and OTU seperately. I do not want to include repeating headers. For users, make sure that you have the same number of dimension of tables before using this program.
+# Author: 
+Taylor Alderete
+Email: teebrooke@g.ucla.edu
+
+# Introduction: 
+This program is designed to take tables with large data sets that involve eDNA and concatenate them to form one large conclusive table. The tables included are Metadata and OTU and they will be concatenated independently from each other. Specifically for Metadata I will be using Sample 18 for the foundation of the header and following it with tabs for Sample 17 and 19. When file 17 gets read, a line is read and tehn the header of 17 is compared with 18 and where there is a mismatch due to no entry in 17, it inserts tabs. The same goes when comparing Sample 19 with Sample 18. Tabs are inserted where there is a mismatch. I have verified, by examining each line, that for the headers that do match up with 18, they have the same spelling and punctuation becasue that can give you a false mismatch. For the OTU data, I created a concatenated header that includes the headers from Sample 17, 18 and 19 all on one line. After the headers have been concatenated, I then satrted to feed in teh data from Sample 17 but 14 zeros must follow act as place holders so all the rows and columns. These place holders are important for Sample 18 and 19 as well.
+
+# Purpose
+The purpose of my project is to concatenate tables with a single header and single row, thus the tables will be concatenated with repsect to their titles, Metadata and OTU seperately. I do not want to include repeating headers. 
 
 # Psuedocode: 
 I will be taking two sets of three tables and all their common and uncommon header rows and using that as the foundation for the final concatenated table. For example, some of the uncommon headers among the three tables in Metadata include Time Collection. The final concatenated header row will include all of theses headers, even if the table does not have any data for it. The same goes for the final concatenated OTU table. 
 
-# First step will be to import the tables and distinguish how many rows and columns there are in each table (Meatdata will be concatenated with Metadata and OTU with OTU).
+# Program workflow
+
+1. Import the tables and distinguish how many rows and columns there are in each table (Meatdata will be concatenated with Metadata and OTU with OTU).
+
+2. Open the input file for reading
+
+3. Now to concatentate the headers into one common header
+
+4. Use Python to look through each charcter and line 
+
+5. Use for loop for the ranges that need to include tabs 
+
+6. After the loop is completed, close the file
+
+# Dependencies
+1. Python
+2. A text editor like text wrangler to view invisible characters
+
+
+# Steps
 
 data_file_meta1 = pd.read_excel('sample_17_metadata.xlsx')
 
@@ -18,7 +40,7 @@ data_file_meta2 = pd.read_excel('sample_18_metadata.xlsx')
 
 data_file_meta3 = pd.read_excel('sample_19_metadata.xlsx')
 
-# Next we will take a look at the Metadata tables to determine a concatenated header row with common and uncommon headers (common headers are included in all and uncommon headers are only present on some tables)
+
 
 #Set the input file name
 
@@ -309,8 +331,10 @@ for Line in InFile6:
   LineNumber = LineNumber + 1  ????????
   
 # After the loop is completed, close the file
+
 InFile6.close ()
  
- 
- 
+# References:
+Python
+Text Wrangler
   

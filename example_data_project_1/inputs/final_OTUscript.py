@@ -1,20 +1,8 @@
-# OTU data
-
-data_file_OTU1 = pd.read_excel('sample_17_OTUtable.xlsx')
-
-data_file_OTU2 = pd.read_excel('sample_18_OTUtable.xlsx')
-
-data_file_OTU3 = pd.read_excel('sample_19_OTUtable.xlsx')
-
-# Set input file name
-
 InFileName1 = "sample_17_OTUtable.txt"
 
 InFileName2 = "sample_18_OTUtable.txt"
 
 InFileName3 = "sample_19_OTUtable.txt"
-
-# Open the input file for reading
 
 OutFile_OTU_merge = "OTU_3_tables_merged.txt"
 
@@ -25,8 +13,6 @@ InFile1 = open(InFileName1, 'r')
 InFile2 = open(InFileName2, 'r')
 
 InFile3 = open(InFileName3, 'r')
-
-# Initialize the counter used to keep track of lines
 
 header1 = InFile1.readline()
 
@@ -41,8 +27,6 @@ headerList1 = header1.split('\t')
 headerList2 = header2.split('\t')
 
 headerList3 = header3.split('\t')
-
-# Loop through each line in the file 
 
 for i in range(0,15):
 
@@ -100,9 +84,7 @@ for i in range(0,361):
 
         OutFile.write(lineList2[i]+'\t')
 
-    OutFile.write(lineList2[44]) 
-    
-# After the loop is completed, close the file
+    OutFile.write(lineList2[44])            
 
 InFile1.close()
 
@@ -111,4 +93,3 @@ InFile2.close()
 InFile3.close()
 
 OutFile.close()
-

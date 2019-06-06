@@ -33,7 +33,9 @@ The purpose of my project is to concatenate tables with a single header and sing
 2. A text editor like text wrangler to view invisible characters
 
 
-# Intructions
+# Instructions
+
+
 
 # References
 Python

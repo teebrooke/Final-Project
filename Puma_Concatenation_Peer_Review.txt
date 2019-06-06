@@ -1,0 +1,23 @@
+Peer Review (as of 6/4/19, time of review) 
+
+The ReadMe
+1- Yes, the README.md is the first document to be displayed. Yes, the README.md page includes a title (Always be Concatenating) and the name and contact information for the author (Taylor Alderete).
+2- Yes, the introduction does a good job introducing the purpose of this project. Taylor's motivation in creating the program was to merge data into one table and organized through the use of titles.
+3- There is a very detailed list of steps in the completion of this project. I do not think this is necessary or appropriate for the READMe.md. The workflow should briefly list general steps to the project. Taylor will be importing previously made tables, concatenating similar titles and the appropriate data, and looping each line of data. 
+4- No, there are no dependencies listed in the READMe.md. This implies that no specific requirements of Hoffman2 are listed either.
+5- Yes, there are instructions for running the program. The instructions do makes sense. I would not include this much detail into the instructions. This is a list of nearly every command you did. That information should be dedicated to the Vignette. Shorten.
+6- Yes, within example_data_project_1, there are input and output directories with the required information.
+7- No, there are no citations at all. This includes towards research programs, motivations, and dependencies.
+
+
+The Scripts
+8- No, there is no directory that contains all of the program scripts. However, a lot of the script is described in the READMe.md file.
+9- NA - Taken out of rubric requirements.
+
+The Vignette
+10- No, there is no directory named "Vignette", therefore the test set, commands list, and expected output is not provided in one place.
+11- Since there is no Vignette (commands or small data set) , I could not run anything. I attempted to follow the directions listed within the READMe.md, but I had a difficult time beginning with the data_file_meta steps.
+12- I was not able to run any commands, and thus did not reproduce the expected results. It needs to be more detailed in how to begin.
+
+General
+13- Review the rubric and make sure you have the appropriate information included in both the READMe.md and the Vignette. Consider making a txt file that had all of the commands to run in one place. It was very difficult to attempt to run without.

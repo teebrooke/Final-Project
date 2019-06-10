@@ -1,0 +1,53 @@
+Homework 10
+A.B.C (Always be Concatenating) 6/10/19
+The Readme
+1. Is the Readme file the first document displayed upon lading the Github? Does this Readme page include a title, and the name and contact information for all project members?
+Yes, the Readme is the first document displayed and contains a title, author name, and author email.
+
+2. Is the purpose of this program clear from the Introduction? What -in your own words- is the motivation behind the program.
+The purpose is somewhat clear. I understand the purpose is to concatenate taxonomy and eDNA data into one table? Or into two tables, one metadata and one OTU table. I don’t really understand the overall motivation for creating the program. Is it important to concatenate data? What is the data we are concatenating in the first place? I would move the Introduction information into the project workflow and write more about why this program is important and introduce what data we are working with.
+
+3. Is there a program workflow and is it easy to understand? What -in your own words- is the program workflow?
+The workflow section is easy to understand. My understanding is the program takes the input tables and concatenates them into one table.
+
+4. Are the dependencies indicated in the workflow? If there are Hoffman2 specific requirements are they indicated?
+Yes, there are dependencies. The two dependencies are Python and a Text Wrangler, however there are no instructions on how to download either dependency. There are no Hoffman2 specific requirements indicated.
+
+5. Are there instructions for running the program? Do the instructions make sense? What would you do to improve the instructions?
+There are no instructions.
+
+6. Is there a section that indicates the files and directories produced by the program?
+There is no such section.
+
+7. Are the research programs / motivations for the program cited? Are the dependencies cited?
+No programs/motivations/dependencies are cited.
+
+
+The Scripts
+
+8. Is there a directory that contains all of the program scripts?
+There don’t seem to be any program scripts in the GitHub.
+
+9. Do these programs generate a run log?
+No! But I think this part was removed from the rubric.
+
+
+The Vignette
+10. Is there a directory called Vignette and does it include a test set, the commands used to run the program and the expected output databases?
+There is an example data folder but it is not called a Vignette. There are example inputs and outputs but no instructions on how which commands to use to run the program.
+
+11. Where you able to run the Vignette using the small test dataset? If not what errors did you get? If so was it easy to run the dataset? Where the instructions clear.
+Since there were no instructions, I don’t know how to even run the program in the first place.
+
+
+12. Where you able to reproduce the expected output? If not what was different.
+Because I could not run the program, I could not reproduce the expected output.
+
+
+General
+
+13. Give at least two suggestions for ways to improve the GitHub page or the operation of the program.
+
+1. Fill in some of the sections of the project, as there are several key sections missing that prevent the user from running the program. The README instructions, README dependencies downloading instructions, README references, and Vignette instructions are all missing.
+
+2. Push the scripts to the GitHub repository.

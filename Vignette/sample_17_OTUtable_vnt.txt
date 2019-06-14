@@ -1,0 +1,6 @@
+#OTU ID	S1_17	S2_17	S3_17	S4_17	S5_17	S6_17	S7_17	S8_17	S9_17	S10_17	S11_17	S12_17	S13_17	S14_17	sum taxonomy
+forward_16S_1	158	256	19	12	2	0	58	1066	455	79	7	2	5	74	Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;;
+forward_16S_2	39	80	2	3	0	0	17	307	130	17	3	0	1	23	Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;;
+forward_16S_3	71	4	280	12	0	0	100	0	55	4	30	4	56	5	Acidobacteria;Blastocatellia;;Pyrinomonadaceae;Arenimicrobium;Arenimicrobium luteum
+forward_16S_4	36	54	2	1	1	0	11	279	69	15	2	0	1	17	Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;;
+forward_16S_5	84	1	202	1	3	4	0	0	4	10	33	28	14	0	Thaumarchaeota;Nitrososphaeria;Nitrososphaerales;Nitrososphaeraceae;Candidatus Nitrosocosmicus;

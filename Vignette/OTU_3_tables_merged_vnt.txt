@@ -1,0 +1,16 @@
+#OTU ID	S1_17	S2_17	S3_17	S4_17	S5_17	S6_17	S7_17	S8_17	S9_17	S10_17	S11_17	S12_17	S13_17	S14_17	S1_18	S2_18	S3_18	S4_18	S5_18	S6_18	S7_18	S8_18	S9_18	S10_18	S11_18	S12_18	S13_18	S14_18	S1_19	S2_19	S3_19	S4_19	S5_19	S6_19	S7_19	S8_19	S9_19	S10_19	S11_19	S12_19	S13_19	S14_19	sum taxonomy
+forward_16S_1_17	158	256	19	12	2	0	58	1066	455	79	7	2	5	74	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;;
+forward_16S_2_17	39	80	2	3	0	0	17	307	130	17	3	0	1	23	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;;
+forward_16S_3_17	71	4	280	12	0	0	100	0	55	4	30	4	56	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Acidobacteria;Blastocatellia;;Pyrinomonadaceae;Arenimicrobium;Arenimicrobium luteum
+forward_16S_4_17	36	54	2	1	1	0	11	279	69	15	2	0	1	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;;
+forward_16S_5_17	84	1	202	1	3	4	0	0	4	10	33	28	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Thaumarchaeota;Nitrososphaeria;Nitrososphaerales;Nitrososphaeraceae;Candidatus Nitrosocosmicus;
+forward_16S_638_18	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	;;;;;
+forward_16S_639_18	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	7	5	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Verrucomicrobia;Spartobacteria;NA;NA;NA;bacterium Ellin507
+forward_16S_640_18	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Acidobacteria;;;;Luteitalea;Luteitalea pratensis
+forward_16S_641_18	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Verrucomicrobia;Verrucomicrobiae;Verrucomicrobiales;Verrucomicrobia subdivision 3;NA;bacterium Ellin516
+forward_16S_642_18	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Verrucomicrobia;Verrucomicrobiae;Verrucomicrobiales;Verrucomicrobia subdivision 3;;
+forward_16S_134_19	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	4	9	1	0	3	5	6	2	2	0	2	2	Proteobacteria;Alphaproteobacteria;Rhizobiales;Methylobacteriaceae;Microvirga;Microvirga sp.
+forward_16S_135_19	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	1	0	3	2	0	24	0	3	0	2	3	0	0	Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;;
+forward_16S_136_19	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	31	0	2	0	0	0	1	1	4	0	Verrucomicrobia;Spartobacteria;Chthoniobacterales;Chthoniobacteraceae;Candidatus Udaeobacter;Candidatus Udaeobacter copiosus
+forward_16S_137_19	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	4	0	25	4	1	0	0	1	0	4	0	0	Thaumarchaeota;Nitrososphaeria;Nitrososphaerales;Nitrososphaeraceae;Candidatus Nitrosocosmicus;
+forward_16S_138_19	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	7	0	0	0	0	1	21	11	0	0	0	0	0	Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Massilia;

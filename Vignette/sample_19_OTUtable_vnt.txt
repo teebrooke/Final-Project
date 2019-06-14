@@ -1,0 +1,6 @@
+#OTU ID	S1_19	S2_19	S3_19	S4_19	S5_19	S6_19	S7_19	S8_19	S9_19	S10_19	S11_19	S12_19	S13_19	S14_19	sum taxonomy
+forward_16S_134	6	0	4	9	1	0	3	5	6	2	2	0	2	2	Proteobacteria;Alphaproteobacteria;Rhizobiales;Methylobacteriaceae;Microvirga;Microvirga sp.
+forward_16S_135	4	1	0	3	2	0	24	0	3	0	2	3	0	0	Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;;
+forward_16S_136	3	0	0	0	31	0	2	0	0	0	1	1	4	0	Verrucomicrobia;Spartobacteria;Chthoniobacterales;Chthoniobacteraceae;Candidatus Udaeobacter;Candidatus Udaeobacter copiosus
+forward_16S_137	2	1	4	0	25	4	1	0	0	1	0	4	0	0	Thaumarchaeota;Nitrososphaeria;Nitrososphaerales;Nitrososphaeraceae;Candidatus Nitrosocosmicus;
+forward_16S_138	2	7	0	0	0	0	1	21	11	0	0	0	0	0	Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Massilia;

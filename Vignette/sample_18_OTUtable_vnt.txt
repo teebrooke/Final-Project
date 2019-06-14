@@ -1,0 +1,6 @@
+#OTU ID	S1_18	S2_18	S3_18	S4_18	S5_18	S6_18	S7_18	S8_18	S9_18	S10_18	S11_18	S12_18	S13_18	S14_18	sum taxonomy
+forward_16S_638	0	0	0	1	0	0	13	0	0	0	0	0	0	0	;;;;;
+forward_16S_639	0	0	0	1	7	5	0	0	0	0	0	1	0	0	Verrucomicrobia;Spartobacteria;NA;NA;NA;bacterium Ellin507
+forward_16S_640	0	0	0	0	14	0	0	0	0	0	0	0	0	0	Acidobacteria;;;;Luteitalea;Luteitalea pratensis
+forward_16S_641	0	0	0	0	12	1	0	0	0	0	0	1	0	0	Verrucomicrobia;Verrucomicrobiae;Verrucomicrobiales;Verrucomicrobia subdivision 3;NA;bacterium Ellin516
+forward_16S_642	0	0	0	0	12	0	0	0	0	0	0	2	0	0	Verrucomicrobia;Verrucomicrobiae;Verrucomicrobiales;Verrucomicrobia subdivision 3;;
